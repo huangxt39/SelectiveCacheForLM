@@ -1,0 +1,2775 @@
+wiki document:
+cast:
+Meryl Streep as Katharine Graham
+Tom Hanks as Ben Bradlee
+Sarah Paulson as Antoinette "Tony" Pinchot Bradlee
+Bob Odenkirk as Ben Bagdikian
+Tracy Letts as Fritz Beebe
+
+critical response:
+The Post passes the trickiest tests of a historical drama: It makes us understand that decisions that have been validated by the lens of history were difficult ones to make in the moment, and it generates suspense over how all the pieces fell into place to make those decisions come to fruition.
+Nobody needs to be reminded that history tends to go in circles, but The Post is so vital because it captures the ecstasy of trying to break the chain and bend things towards justice; defending the fundamental tenets of the Constitution hasn't been this much fun since Hamilton.
+has all the makings of an awards season hit, but is too calculated to reflect today's ragged, tenuous sociopolitical climate.
+Spielberg makes these crucial days in American history easy to follow. But if you look at The Post next to something like All the President's Men, you see the difference between having a story passively explained to you and actively helping to untangle it. That's a small quibble with an urgent and impeccably acted film. But it's also the difference between a very good movie and a great one.
+
+director:
+Steven Spielberg
+
+genre:
+Historical, Political
+
+introduction:
+The Post is a 2017 American historical political thriller film directed and produced by Steven Spielberg and written by Liz Hannah and Josh Singer. It stars Meryl Streep as Katharine Graham, the first female publisher of a major American newspaper, and Tom Hanks as Ben Bradlee, the executive editor of The Washington Post, with Sarah Paulson, Bob Odenkirk, Tracy Letts, Bradley Whitford, Bruce Greenwood, Carrie Coon, and Matthew Rhys in supporting roles. Set in the early 1970s, The Post depicts the true story of attempts by journalists at The Washington Post to publish the Pentagon Papers, classified documents regarding the 30-year involvement of the United States government in the Vietnam War.
+
+movie name:
+The Post
+
+rating:
+Rotten Tomatoes: 88% and average: 7.9/10
+Metacritic Score: 83/100
+CinemaScore: A
+
+year:
+2017
+
+description:
+In 1966 Vietnam, State Department military analyst Daniel Ellsberg accompanies U.S. troops in combat, documenting the progress of U.S. military activities in the region for Secretary of Defense Robert McNamara. On the return flight home, McNamara expresses to Ellsberg and William Macomber his view that the war in Vietnam is hopeless, yet, upon landing, McNamara expresses his confidence in the war effort. Ellsberg overhears this, and becomes disillusioned. Years later, now working for the RAND Corporation, a civilian military contractor, Ellsberg surreptitiously photocopies classified reports documenting the country's decades-long involvement in the conflict in Vietnam, dating back to the Truman administration. Ellsberg then leaks these documents to reporters at The New York Times. 
+Post assistant editor Ben Bagdikian tracks down Ellsberg as the source for the leak, who provides Bagdikian with copies of the same material given to the Times. A hand-picked team of Post reporters sorts through the piles of papers, searching for the headline stories. The lawyers for the Post advise against publishing the material, lest the Nixon administration bring criminal charges against them. Graham talks to McNamara, Bradlee, and trusted Post chairman Fritz Beebe, agonizing over the decision of whether to publish. The situation is made even more complicated when the Post's lawyers discover that Bagdikian's source is the same as the Times's, possibly putting Graham in contempt of court. If charges are brought against the company, Graham could destroy the newspaper she sees as a family legacy. Alternately, if she were to win any legal challenge, the Post could instead establish itself as an important journalistic institution. She chooses to run the story. 
+The White House retaliates, and in short order the Post and Times appear together before the Supreme Court to plead their First Amendment argument for the right to publish the material. Meanwhile, newspapers across the country pick up the story in solidarity with the Post and Times. The court rules 6 3 in the newspapers' favor, vindicating Graham's decision. Nixon demands that the Post should be barred from the White House. One year later, a security guard discovers a break-in in progress at the Watergate complex. 
+
+conversation:
+user2: This movie looks really interesting I like Tom Hanks a lot
+user1: He IS a great and highly skilled actor.
+user2: for sure, I think the score on this movie looks really good on Rotten Tomatoes
+user1: 88% is a good score. I think I too, would rate this movie average.
+user2: yeah this typically isn't in my genre but nevertheless seems to be a good movie
+user1: So this movie takes place during or after the Vietnamese war?
+user2: after I believe
+user2: its funny its about a newspaper and nobody even reads those anymore
+user1: Exactly. Tom Hanks plays as one of those who works for The Post too.
+user2: yeah and Meryl Streep as well I believe
+user1: Any movie directed by Steven Spielberg is bound to have the viewer's attention 
+user2: Yes and really the critics seemed to enjoy it 
+user1: In what year did Daniel Ellsberg accompany the US troops in the movie?
+user2: I think 1966 
+user2: would you agree?
+user1: I would too agree.
+user2: What corporation was he working for?
+user1: Daniel Ellsberg ended up working for RAND.
+user1: Is my memory correct?
+user2: yes that is correct from what I can see
+user2: pretty gutsy move these guys actually pulled 
+user2: with classified government documents
+user1: And he tracked down by the post assistant editor too.
+user2: yes I actually think this movie makes me want to see more true story type films
+user1: I would not be surprised at all if this was a hidden real story that the government did not want to get out 
+user2: that's what it seems like that it was a 30 year old document that they didn't want people to know about
+user2: do you enjoy this genre of movie?
+user1: I do. I enjoy movies that involve exploiting of governments and white house involvements. 
+user2: same here it makes it more interesting knowing it actually happened to
+user1: and in the movie, the court rules the newspaper 6-3, that must of been a shocker
+user2: yeah I am sure the government was shocked
+user1: Even if I was right, I don't think i could conspire against the US government
+user2: no absolutely not I don't think its right to undermine the government
+user2: who was president at the time I wonder?
+user1: The president during that time was Nixon
+user2: ok cool
+user1: Nixon actually demanded that the Post be barred from the White House.
+
+conversation:
+user1: Hello.
+user2: Hello
+user1: Lets talk about a movie from Steven Spielberg. :D
+user2: Yes ! 
+user2: The post seemed like a great movie I never got the chance to see it did you ?
+user1: I never got to watch it either my friend lol
+user1: Sometimes, Spielberg makes these movies that are not very adventure related... I love Spielbergs work if theyre going to be adventure movies.
+user2: Haha after reading this though I'm interested in seeing it
+user1: Lets see now.
+user2: I see you prefer adventure related movies instead of historical drama
+user1: I don't know, it feels like Bridge of Spies kind of vibe.
+user1: I mean I do like those types of movies but when it comes to Spielberg, you got to bring in the ADVENTURE.
+user1: Its supposed to be his trademark honestly.
+user1: Anyways yeah.
+user1: This seem to be a very interesting movie to say the least.
+user2: Haha I see he is a very versatile director though 
+user2: It does great cast behind it too
+user2: I have have an interest in the Vietnam war 
+user1: Well of course hahaha.
+user1: I have too!
+user1: The ratings for the movie seem appropriate for a Spielberg movie.
+user2: And how the soldiers were treated back home was terrible  
+user2:  I can't quite remember how the media portrayed them 
+user2: They do 
+user1: Very terrible...
+user1: I am not a fan of Meryl Streep though.
+user1: One of the greatest but just too perfect for me lol.
+user2: Yes :(
+user2: Me too! I mean I've never really seen her movies 
+user1: Hahaha
+user2: But she is heavily praised 
+user1: Yeah but when it comes to Oscars... SHE IS ALWAYS THERE. You can always see her... Old woman, give space to the youngins! hahahaha
+user2: Haha she's a legend 
+user2: That's what they say
+user2: Honestly though might watch the post after this 
+user2: Big tom hanks fan
+user1: Hahaha
+user1: I know.
+user1: Hey hey.
+user1: Im a big Tom Hanks fan too!!!
+user2: Haha I just went on a movie binge with his classics 
+user1: Remember in Saving private Ryan, Captain Miller saying "Earn this!" to a young Matt Damon... HAHAHAHAHA
+user1: That cracked me up honestly. It great acting but it sounded funny. Anyways, different movie haha. I would definitely watch this movie again.
+user2: I haven't seen private Ryan I need too I just became a big fan like 2 months ago 
+user1: SAY WHAAAAAT!
+user1: Watch both movies!
+user2: I will though because of you!
+user1: Anyways thanks and good bye! Habe a good one haha.
+user2: Next ?
+user1: Have*
+user1: Youre welcome haha.
+user2: Bye! You too!
+
+conversation:
+user2: Hi there
+user1: hello
+user1: I love a good thriller. Especially one produced by Steven Spielberg
+user1: Yeah, he is great. The Post is one of the better ones which  has a lot to do with Tom Hanks
+
+conversation:
+user2: Okay, have you heard of The Post?
+user2: Are you there?
+user1: Yes, sorry for the delay. I did see the movie recently. I don't usually enjoy political films, but I thought it was quite well done.
+user2: No worries. Oh, yeah, I thought Meryl Streep and Tom Hanks were both pretty good.
+user2: So, it apparently has a Rotten Tomatoes rating of 88%, which surprises me because, like you said, most people don't seem to go for political thrillers.
+user1: I think it has a lot to do with the cast, to be honest. Meryl and Tom and Sarah Paulson as well. If they didn't get those larger names, more people would have ignored it.
+user2: I'm looking to see who Sarah Paulson played. I saw it too...
+user1: Oh, she was Tony!
+user2: It's described as an American historical thriller, which I guess I agree with, given the nature of the Pentagon Papers.
+user2: I didn't realize it was directed by Steven Spielberg.
+user1: I feel like the struggle between the media and the people in power is always relevent
+user2: Yeah. It was interesting to see how the court case played out and how the newspapers sort of stood together.
+user2: Matthew Rhys was in it too...I like him as an actor.
+user2: Critics seemed to be torn about the movie..
+user2: One said, "The Post passes the trickiest tests of a historical drama...
+user2: Another said, "is too calculated to reflect today's ragged, tenuous sociopolitical climate."
+user2: Do you think you would see it again?
+user1: I I think seeing it a second time would be helpful to pick up the little things I might have missed. I'm not sure I would categorize it as calculated. It was intense, but I thought in a good way.
+user2: Who was your favorite actor in the movie?
+user1: Meryl Streep for sure. being the first female publisher  of a major news source, it was really amazing to see her part in the struggle and how it was unique to that role
+user2: Yeah there were some moments in the movie for sure.
+user2: I didn't realize the employee who leaked the papers had worked at the RAND corporation.
+user2: What did you think of Tom Hanks' performance in the movie? 
+user1: I thought it was really good. He does really well at things set more in the past, like the 70s in this one.
+user1: I didn't really understand why the Rand employee had leaked the info in the first place. Did you catch that?
+user1: Or rather did you catch why? I feel like I must have missed something.
+user2: No, I think he was just disenchanted with the war and how we had escalated our involvement. 
+user2: Apparently Ellsberg overheard Robert McNamara saying he thought the war was hopeless, even though he was telling the public it was going well, and he became disillusioned about that and decided to leak the truth.
+user2: (It was YEARS LATER that he actually decided to leak the info)
+user2: That was a plot detail I definitely missed. Must have been an early scene in the movie.
+user1: Oh, you're right! I forgot that he had overheard that conversation. I'm glad Tom Hank's character was able to figure out it was he who had  leaked the info, and got all of the information he needed for the Post.
+user2: Yeah it was interesting how that developed. Do you remember how the legal issues developed? It says something about the paper's source being the same as the NYT's source. I had forgotten the NYT published something first.
+user1: Yeah having the same source put Graham possibly in contempt of court.
+user1: Do you think Graham made the right choice to publish?
+user2: I'm a little torn, but, given the seriousness of the issue, yes. Normally I would tend to side with the government, but this was really mismanaged. It was an important decision for the court to side with the paper.
+user2: I just got another update...
+user2: Here is a question for you - would you recommend this movie to people you know (who haven't seen it)?
+user1: I would recommend it for sure to most people. despite it taking place int he 70's, I feel Spielberg took it in a really exciting direction instead of just throwing facts at you about the case.
+user2: I think it was filmed well, and I was surprised how much suspense built even though I already knew the basic facts.
+user1: There were so many details I had no idea about. And I like how it sort of set the stage for the Watergate scandal right afterwards with Nixon.
+user2: I completely forgot about that scene at the end! Just got some details for the movie summary, and it mentions that. I guess that was one year later.
+user1: What did you think of the part when the case went to the Supreme Court?
+user2: Honestly, I really liked all of the scenes with Jesse Plemons as the lawyer. I thought he nailed it as far as lawyers taking a straight line even when something outside the box comes up. I wondered if the lines he spoke were based on facts and actual testimony.
+user2: It looks like we're all done here - thanks for chatting!
+user1: I don't remember much about the lawyer. I just liked how the other newspapers picke dup the mantle to support the Post and Times.
+user1: Oh yeah, thanks!
+
+conversation:
+user2: Tell me about the movie
+user1: I have never seen this movie.
+user2: Do you know what it is about?
+user1: No, I do not. I knwo it has some great actors in it like Tom Hanks and Meryl Streep. 
+user2: two of my favorites
+user1: Mine too. Have you seen this movie before?
+user2: No, not yet.
+user2: Do you want to see it?
+user1: I guess it woudnt be a bad idea to Google the movie and see what it is about. I wouldn't mind seeing it sonce it has Tom Hanks in it.
+user2: He's funny
+user2: Google is a good idea. do you have a favorite movie site to shcek?
+user1: Yeah he is. I love a lot of his movies.
+user1: Other than IMDB, no
+user2: mine too
+user1: We should check it out then.
+user2: Yes. How many movies do you watch per year?
+user1: Good question. A lot
+user2: what is your favorite genre?
+user2: Mine is thriller. I live Fatal Attraction
+user2: I love other movies like that too'
+user2: Basic Instinct is my mom's fav
+user1: Do you watch a lot of movies?
+user2: Yes. About 2 a week
+user2: Love the old ones best
+user2: Especially 80's movies
+user1: My favorite genres are horror,  romantic comedy
+user2: do you like jim carey in comedy?
+user1: I love jim carey!
+user2: Funny guy. Remember the elevator scene in Liar Liar? 
+user2: LOL
+user1: Lol! Yeah!
+user2: What about kid's movies? I still like Shrek
+user1: Shrek is funny! I love pretty much all kid movies.
+user2: Me too. good memories
+user1: I haven't seen a lot of the old classics for a long time. 
+user1: I agree, good memories 
+user2: They are worth rewatching.
+user2: Have you seen Gaslight?
+user2: Scary, good movie
+user1: Yes definitely 
+user2: Time to sign out. Have a great day! 
+user1: No not gaslight 
+user2: Watch Gaslight! 
+user1: You too
+user1: I will!
+user2: :) 
+
+conversation:
+user2: hi
+user1: hi
+user2: Our movie is The Post
+user2: The Post is a 2017 American historical political thriller film directed and produced by StevenSpielberg and written by Liz Hannah and Josh Singer.
+user1: Yes, The Post.  Tom Hanks and Meryl Streep are in it
+user2: It stars Meryl Streep as Katharine Graham,the first female publisher of a major American newspaper,
+user2: and Tom Hanks as Ben Bradlee, theexecutive editor of The Washington Post, with Sarah Paulson, Bob Odenkirk, Tracy Letts, BradleyWhitford, Bruce Greenwood, Carrie Coon, and Matthew Rhys in supporting roles.
+user1: This is set in the 1970s
+user2: Never a bad Spielberg movie
+user2: Yes
+user2: based on true events
+user2: Set in the early1970s, The Post depicts the true story of attempts by journalists at The Washington Post to publishthe Pentagon Papers, classified documents regarding the 30-year involvement of the UnitedStates government in the Vietnam War.
+user1: Yes, true events about the Vietnam War
+user2: It's more about a newspaper in the states, but it regards things that happened in the war that they reveal to the public
+user1: The movies sounds like there may be some suspense to it based on the journalists decisions
+user2: definately
+user2: 1st key scene..
+user1: Rotten Tomatoes gives it 88%
+user2: In 1966 Vietnam, State Department military analyst Daniel Ellsberg accompanies U.S.troops in combat, documenting the progress of U.S. military activities in the region forSecretary of Defense Robert McNamara. On the return flight home, McNamara expressesto Ellsberg and William Macomber his view that the war in Vietnam is hopeless, yet, uponlanding, McNamara expresses his confidence in the war effort. Ellsberg overhears this, andbecomes disillusioned. Years later, now working for the RAND Corporation, a civilianmilitary contractor, Ellsberg surreptitiously photocopies classified reports documenting thecountry's decades-long involvement in the conflict in Vietnam, dating back to the Trumanadministration. Ellsberg then leaks these documents to reporters at The New York Times.
+user1: and an A for Cinema Score
+user2: what's your favorite Speilberg movie?
+user1: There are quite a few great actors in The Post
+user1: Tom Hanks
+user1: Meryl Streep
+user1: Bob Odenkirk
+user1: Sarah Paulson
+user1: I like that this movie is a historical movie.
+user2: Yeah
+user2: He tends to split his time between historical pieces and more fantasy/scifi movies
+user2: he even releases 2 per year sometimes
+user1: Do you generally look at movie ratings?  This one is rated pretty well.
+user2: Yeah pretty high up there
+user2: Rotten Tomatoes: 88% and average: 7.9/102. Metacritic Score: 83/100
+user2: Anything over 70% is usually worth watching in my opinion
+user1: Agreed
+user2: are you familiar with Bob Odenkirk from Breaking Bad?
+user1: Yes, he is a good actor.  I like that he is in The Post.
+user2: Did you ever watch Mr. Show? It was a sketch show on HBO in the 90s.
+user2: Odenkirk was in that
+user1: I am not sure about that show but did you see that the court's decided to rule in favor of the newspaper and that Nixon wanted the Post barred from the White House?
+user2: Oh wow, i didn't see that
+user1: If you look at key scene #3.  Interesting.  It also mentions that the break-in at Watergate was one year later!
+
+conversation:
+user1: Hi
+user2: Hi, give me a minute...
+user2: ok, I am here...
+user2: do you know movie The Post?
+user2: it's historical political thriller...
+user2: do you like such films?
+user2: I have to watch it again... I love Maryl Streep...
+user1: Hi, are you still there?
+user2: yes..
+user2: do you know this film?
+user2: The Post?
+user2: I am not 'there' 
+user2: I am here :)
+user2: hellooo!
+user2: do you like movies of historical, political genre?
+user2: Do you like films produced by Steven Spielberg?
+user2: do you like Tom Hanks?
+user2: or Meryl Streep?
+
+conversation:
+user2: hello, how are you today?
+user1: Fine thank you!
+user2: have you seen this movie?
+user1: I have not but I am interested on it based on it being a historical film. 
+user1: Have you seen it?
+user2: I haven't either but the cast of actors looks great
+user2: Tom Hanks and Meryl Streep
+user1: I agree, and with Spielberg as the director I'm sure it's really great. 
+user2: Plus Spielberg directing is very promising
+user2: it's 2017 very recent
+user1: I agree. The critical responses make it seem like it's historically accurate and suspenseful. 
+user2: would be a nice change from all those dark and apocalyptic movies
+user1: I love seeing perspective of people who lived through historical events. This one looks like it takes place during the 1970s during the Vietnam War. 
+user2: Yes, I love historical dramas as well! Very interesting to immerse in time that was before us
+user1: It seems that this movie also makes it easy to understand the event and characters based on the quality of the movie. 
+user2: Yes, the actors did a great job depicting these events, I'm sure
+user1: The ratings also look great. Rotten Tomatoes is a site i use often to check movies. It got an 88% so that's descent. 
+user2: Yes, not too bad at all, I'm definitely sold
+user1: I don't see anything about where you can get the movie from. I wonder if it's available to stream?
+user2: There are many Free streaming services online, I would also look on Amazon Prime and Netflix
+user1: I'm noting in the key scenes that there is some drama with leaking of information through the newspaper that the characters work at. What a difference from modern day age where newspapers are not quite as heavy of an influence. 
+user1: I'm definitely going to look it up on Prime. I  also didn't note what it was rated? (PG-13, R, etc?) Did you happen to notice?
+user2: Today it's all about social media outlets and news!
+user2: I did not notice it, I'm looking
+user1: Instant media these days. Newspapers are slowly fading. I think that's what would make this movie interesting, to relive the times when papers made such an impact. 
+user2: Hmmm, I don't see that information...
+user2: definitely, everything came from pares back then: news, personal announcements, life and death... 
+user1: I didn't either. I was just curious. I also see that one of the key scenes shows a court case based on the newspapers publishing of material against First Amendment rights. So I take that it's heavy on politics. 
+user2: yes, it's definitely an adult movie
+user2: some heavy stuff
+user2: I'm inspired now to see it, I will definitely look up Amazon Prime this weekend
+user1: The critical posts mention it's a test of historical drama. That part sounds like I would enjoy it. Politics probably not so much, but would be interesting to see the difference in the 70s and today. 
+
+conversation:
+user1: hello
+user1: what is the name of the movie?
+user2: hello
+user2: Did you watch 'The Post'?
+user1: No, i didnt
+user1: what genre is it?
+user2: it is 'Historical, Political'
+user2: directed by Steven Spielberg
+user1: oh. Does it have any actors that I might know of?
+user2: Maryl Stree 
+user2: Streep
+user2: Tom Hanks
+user1: is it a new movie?
+user2: yes, 2017
+user1: oh, I guess im a bit behind the times. has it been well received?
+user2: I think it's worth watching
+user2: do you want to know something about plot?
+user1: what type of "post" is it named after? whats the movie about?
+user1: yes please
+user2: The Post depicts the story of attempts by journalists at The Washington Post to publish the Pentagon Paers
+user2: Papers
+user1: oh. is that related to the vietnam war?
+user2: yes
+user1: is the movie about a government cover up?
+user2: the government always has something to hide ;)
+user1: isnt that the truth!
+user1: it sounds like a movie id enjoy
+user2: I think that this film is worth watching
+user1: is it a long show?
+user1: do you know the length?
+user2: I dont know the length
+user2: but probably about 1.30h as usual...
+user1: do you know if it has won any awards?
+user2: I don't know
+user1: well thanks for telling me about the post. :)
+
+conversation:
+user1: Hi there, have you heard about the movie The Post, is by Spielberg
+user2: No, I haven't. Tell me about it?
+user1: It has Meryl Strep and Tom Hanks in it, it's about the first female publisher of the Washington Post and they were going to publish the Pentagon papers
+user2: Oh that sounds interesting! is it a thriller?
+user1: Political thriller, Rotten Tomatoes  users gave it a 88% approval rating
+user2: I really like Meryl Streep and Tom Hanks. 88% seems unusually low for Those actors.
+user1: Maybe but critics said it was an impeccably acted film, you should see it.
+user2: I would like to, maybe I'll check to see if it's available streaming online. tell me more about the drama.
+user1: The Post was apparently trying to release papers detailing they 30 year involvement of the US government int he Vietnam War
+user2: Oh I like things that portray stories about the Vietnam War. In fact I am going to see Maya Lin Speak next month about her work designing the war memorial.
+user1: Yep, well  a military analyst, Ellsberg is in Vietnam during combat and documents the activities for the secretary of defense but when he realizes that the secretary believes the US is going to win the war, he is disappointed because he doesn't agree. Years later he photocopies classified reports and releases them.
+user2: It sounds like it was a decision made out of spite. What did he gain from those actions I wonder?
+user1: And by then he was working as a private contractor for a company named Rand. He leaked them to the NTY
+user2: That's a pretty prestigious paper. Did they run the story right away?
+user1: it was a difficult decision to make
+user2: The guy that leaked the story, was that played by Tom Hanks?
+user1: Nope, Tom Hanks is an assistant editor a the post, he tracks down Ellsberg as the source of the leak
+user2: Who plays Ellsberg?
+user1: sorry, bob odenkirk plays the editor, Hanks plays a guy named Ben Bradlee, don't know who plays ellsberg. The post was having a hard time deciding whether to publish or not, the nixon administration brought charges against them
+user2: Oh it sounds really involved, that whole scandal is so interesting. Don't you just love historical dramas?
+user1: Yes, the editor Katharine Graham knew that she had to decide whether to publish or not, if she did, she could be charged with contempt of the court and if she published, she would establish the washington post as a very importan journalistic institution
+user1: she was the heir of the newspaper so she considered it a family legacy
+user2: Gosh, that seems like history never changes. Government always trying to silence the press.
+user1: Exactly! The White House retaliated and ordered the post and the NYT to appear before the supreme court to pled their first amendment to publish the story
+user2: Good for them! 
+user1: the supreme court ruled 6-3 in favor of the newspapers, which vindicated Graham's decision.
+user2: now I really want to see it. It sounds really juicy, but it will be a little difficult because I feel like the situation will anger me.
+user1: But they won. Nixon god mad and barred The post from the White house
+user1: sorry, got mad
+user2: Typical, sounds like another president.
+user1: ha ha, critics said movie shows that "history repeats itself"
+
+conversation:
+user2: Hello
+user1: Hey
+user1: So how was the read? Interesting?
+user2: I need to review "the Post" with you today
+user1: I have not heard of this. What genre?
+user2: yeah, it's a historical political triller
+user2: "historical/political 
+user1: hmmm. any famous actors or actresses?
+user2: yeah, Meryl Streep and Tom Hanks
+user2: The movie was written by Liz Hannah and Josh Singer
+user1: Ok I think I actually have seen the face cover of the movie. I use Fmovies a lot. Now I have netflix. So good ratings or bad?
+user2: Well I would say good ratings,
+user2: Rotten tomatoes;88%
+user2: CinemaScore;A
+user2: Metacritic"83/100
+user1: sounds like good ratings.
+user2: so the ratings from the group attests it is a movie to watch 
+user1: Is it a long movie, decent length, or short?
+user2: It is about Journalists trying to publish what is regarded as classified by the government
+user1: Based on the review would you watch it?
+user2: I would say long, though I don't remember the run time
+user2: but the fact that it is a 2017 movie but having the 1970's set makes it intriguing.\
+user1: That is quite interesting. 
+user1: Is it in anyway musical?
+user2: Graham sees publishing the story as something that could tanish the long standing family legacy if they lose the court case or it could propel the newspaper to a higher pedestal, she eventually decided to publish the story
+user1: I do like both the leading actors in the movie. SOunds like something I might have to check out
+user2: Not at all musical, you know war situations
+user1: Yes definitely, haha had to ask to make sure, however.
+user2: The movie says a lot about the vietnam war actually
+user2: you need to do that and besides it is more or less a recent movie\
+user2: 2017 to be precise
+user2: You got to go see it one of this days
+user2: lest I forget let me run you through the cast again
+user2: so you can decide better
+user2: Meryl Streep, Tom Hanks, Sarah Paulson, Bob Odenkirk and many more
+user1: yes I agree. i don't go to theaters though. Too much money. I either find it on the netflix
+user1: or find it online
+user2: Good deal dude
+user1: Sarah Paulson any relation to Robert Paulson?
+user2: I am not too sure, maybe because it wasn't stated in the movie 
+user2: catch you later
+
+conversation:
+user2: Good morning
+user1: Good Morning. How are you today?
+user2: Doing well, and you?
+user1: Very good, thank you.
+user2: Have you seen the film 'The Post'?
+user1: I have not. Is it about the mail system?
+user2: Actually, no, it is about the Washington Post, a newspaper
+user2: The film is set in the early 70's, when journalists where attempting to publish the Pentagon Papers
+user1: I know that is a huge Newspaper, but unfortunately can't say I read it. 
+user1: I love new movies that are set at older dates, that really give you the true details of how things get started. 
+user1: Who is the main character?
+user2: The main characters are played by Meryl Streep and Tom Hanks
+user1: Two AMAZING stars, this sounds like a wonderful movie.
+user2: Streep's character is running the paper, to my knowledge
+user2: I also enjoy these historical films, it is sort of like getting to see behind the curtain on things we typically do not get to see
+user1: Wow, never thought there was a female lead news editor in the 70s.
+user2: If I remember correctly, the paper was run by her family, so she sort of had an advantage. :)
+user1: Is it considered a historical film, drama? 
+user2: It is considered as such. It is based on the true story of whether or not the press had the freedom to publish things of this nature, and whether the government could take actions to suppress the press.
+user1: Wow, this definitely sounds like a movie I would be interested in watching. Can you tell me anything else about the movie you feel is important
+user2: The movie received strong reviews... Rotten Tomatoes gave 88% and 7.9/10
+user2: CinemaScore gave an A
+user2: Ultimately, and despite being threatened to receive criminal charges from the government, Streep's character decides to run the story.
+user1: I love a strong movie where even despite the negative they go ahead and do what they feel is right.
+user2: This definitely happened here
+user1: Wow, rotten tomatoes score is very high.When was the movie released? Seeing if it is something I can rent or purchase.
+user2: It was released in 2017, it should certainly be available for rent/purchase by now.
+user1: I will have to check to see if my local store has it.
+user2: If not there, there is always the Redbox. :)
+user2: Are you still there?
+user1: Yes, I was researching it. I have it on hold rental for later.
+user2: Great, I am sure you will enjoy it. It is a very interesting story.
+user1: Have you seen any other good movies laterly
+
+conversation:
+user2: Hey, whats the name of the movie?
+user1: Hello
+user1: The name of the movie is The Post
+user1: It is directed by Steven Spielberg
+user1: And stars Mery Streep and Tom Hanks
+user2: Great, does it take place in current day?
+user1: No
+user1: It takes place in the 1970's
+user2: What's the main plot?
+user1: Meryl Streep plays the first publisher of a major American newspaper
+user1: It's a true story about how they try to publish the "Pentagon Papers"
+user2: What role does Hanks play?
+user1: He plays the editor of The Washington Post
+user1: The Pentagon Papers were classified and had information about American actions during the Vietnam War
+user1: Sounds very interesting
+user1: You should definitely check it out
+user1: Do you like historical dramas?
+user1: Even if you don't, it sounds great
+user1: And I love Meryl Streep...she's just the best
+user1: And Tom Hanks is really good two
+user1: If you see them in a movie, you can't go wrong
+user1: What do you think?
+user1: Are you still there?
+
+conversation:
+user2: This seems to be a well-liked movie
+user1: yes the ratings are high on this movie 
+user2: The critics seem to think it was well done for a historical drama.
+user1: it seems the movie is scened in the older history period but they say that speilberg made it easy to follow so that was probably nice
+user1: movie takes place in 1970s 
+user2: It looks like one critic thought it was too easy to follow... like there should have been more suspense maybe?
+user1: maybe so but they are saying history repeats or goes in circles and its them trying to break thatg cycle 
+user2: True.
+user1: they have meryl streep playing as the first female publisher of a major newspaper
+user2: That is really impressive. I would imagine it was difficult for Katharine Graham to become respected in her position back then.
+user1: it says thatg the movie is more interactive with its viewers because your not just getting a story explained to you
+user2: Hmmm... I thought it said the opposite. Maybe I read it wrong. I think it's pretty wild that McNamara told Ellsberg and Macomber that the Vietnam war effort was hopeless, then came home and told the press he had full confidence in the war effort!
+user1: yeah and then he copies the classified reports
+user2: Yeah, Ellsberg copied the reports and leaked them to the New York Times.
+user1: he was working both sides i think or at least thats what im getting from the tex
+user2: I wonder what happened next?
+user1: looks like he got tracked down by ben bagikian
+user2: Graham had a very difficult decision to make about whether or not to publish.
+user1: yes by her publishing the story she could face a legal situation
+user2: I wonder if it could have been considered treason to share that information?
+user1: yeah whats crazy it that they have the same souce thats telling them both the information
+user2: It sounds like the lawyers tried to talk Kathryn out of publishing the stories, but she published them anyhow. That was pretty gutsy!
+user1: yeah it was and then the post and times go to court together to argue their right to publish
+user2: Then a bunch of other newspapers ran the stories too. I guess they figured Nixon couldn't sue them all! LOL
+user2: (I mean prosecute)
+user1: lol right but the court rules in the times and post favor and they end up winning
+user2: It's crazy that Nixon banned the Post from the White House. So much for freedom of the press LOL.
+user1: exactly he was afraid they would publish any other secrets lol but this story led them straight into the watergate scandalbecause a security guard discovers the break in
+user2: Yeah that's pretty awesome. Maybe they should do a sequel about Watergate.
+user2: I wonder what happened to Kathryn Graham after all this?
+user1: i like that other newpaper places came together and posted the story it wouldnt have been fair if the court ruled in favor of the white house
+user2: Yeah, I like that too. It's cool that they all stuck together.
+user1: i wonder what happened after th guard saw the break in
+user2: Right. Seriously, maybe they'll do a sequel? That would be cool.
+user2: So do we need to click "Finish Conversation" or does it end automatically?
+user1: im not sure actually
+
+conversation:
+user1: Hi what did you think of the movie .
+user2: Hello, I think it is pretty good. I love Steven Spielberg movies.
+user1: this was the first one Ive watched and I thought it was great also. 
+user2: Meryl Streep as Katherine Graham was a good choice.
+user1: yes I agree I thought she did amazing. 
+user2: And Tom Hanks as Ben Bradlee was perfect.
+user1: I think so also.  Im not really big on political movies but I think this was great
+user1: I like that it depicts a true story. 
+user2: I was just going to say that. lol
+user1: and the critical response to the movie seems to be good also. 
+user2: Yes, I believe it is.
+user1: political movies are usually hard to follow and this just seemed to flow so well.
+user2: Apparently there were some important document leaks.
+user1: yeah seems like a big mess.
+user2: It was also expressed in the movie that the war in Vietnam was hopeless.
+user1: yes I saw that also. 
+user2: And almost in the next breath McNamara expresses his confidence in this particular war.
+user1: yeah that was odd, but The ratings this movie got was pretty good to I heard 88 from rotten tomatos
+user2: Yes, that is pretty high. You have to really stay focused on this movie while watching to know what's going on though.
+user1: yeah ,that is true. theres alot going on. 
+user2: The assistant editor finds out that Ellsberg is the source of the leak.
+user1: oh really, that is interesting. 
+user2: Attorneys advice him not to expose this leak though as the Nixon administration could bring charges against them.
+user1: oh wow, thats crazy. looks like the story was picked up from newspapers across the country
+user2: Yes, then Nixon demands that the Post should be banned from White House.
+user1: yeah and the courts ruled in the newspapers favor
+user2: A year later the break in at Watergate is discovered.
+user1: seems like one big mess
+user2: It really is.
+user1: well i enjoyed the chat thank you. 
+
+conversation:
+user2: hi
+user2: hello!
+user1: I am not suprised that a film with such a strong cast is scored so highly on Rotten Tomatoes
+user2: I didn't watch it, so I can't tell
+user2: did you watch it?
+user1: I enjoy watching period pieces.  Especially when it has such a strong director.
+user2: well, Steven Spielberg is a great director
+user2: I also like Meryl Streep and Tom Hanks very much
+user2: it must be a great movie, I guess I should watch it
+user1: They are amazing actors which is why it must have them talking about award season.
+
+conversation:
+user2: The movie is The Post, starring Meryl Streep and Tom Hanks. Are you familiar with those actors?
+user1: Wes, my favorites.
+user2: It is directed by Steven Spielberg. What are your thoughts of him as a director?
+user1: This based on the true story about the Post attempting to publish the pentagon papers. Speil berg is a great director.
+user2: Indeed. The setting is early 1970s America. Do you think this was a tumultuous time for Americans?
+user1: A very different time from today, but tumulterous by any standard..
+user2: Do you feel it is important that people watch movies like this?
+user1: Spielberg, I understand attempts to untangle the intrique of the events as they unfold.
+user1: Yes, it is important to watch this type movie.
+user2: Rotten Tomatoes gave The Post a score of 88%. Given just your knowledge of that rating, would you likely watch the movie?
+user1: The Post in the movie attempts to do true jpurnalism a purpose, reviews can be slanted. I'd watch it because they rated it so low.
+user2: (from the document) : "... The Post depicts the true story of attempts by journalists at The Washington Post to publish the Pentagon Papers, classified documents regarding the 30-year involvement of the United States government in the Vietnam War." Do you think that the actions of the people at The Washington Post could be considered heroic?
+user1: Rotten tomatoes ratings are often way off. They don't take into account historic significance.
+user2: One of the supporting actors is Bob Odenkirk. Are you familiar with that actor?
+user1: History tends to repeat itself, if you do not learn its valuable lessons. Not sure who Bob Odenkirk is.
+user2: Do you think that the movie exaggerates the true events for dramatic value or do you think that it would stay grounded in the actual events?
+user1: I think the movie will factually stand the test of time and show the bravery required to make the decision to publish.
+user2: We see that the US State Department military analyst Daniel Ellisberg leaked the classified documents to reporters at The New York Times. Do you feel he did this at great personal risk?
+user1: The movie shows the ambivalence and contradictory nature of politics. The people in the movie were at great personal risk and contradicted spoken policy lick McNamara.
+user1: like McNamara
+user2: One such contradiction McNamara made was expressing his lack of confidence about the Vietnam war in private, only to then express confidence for the war effort in public. What do you think might his motivation to do so?
+user1: The main thing with documentaries do is that they be understood in light of when the events happened.
+user2: We see that "The Post" is written by Liz Hannah and Josh Singer. How much do the writers influence your decision of whether or not to see the movie, if at all?
+user1: Writers reputations carry a lot of weight.
+user2: (from the Critical Response) : " ... has all the makings of an awards season hit, but is too calculated to reflect today's ragged, tenuous sociopolitical climate." Do you feel that criticism is just or unfair?
+user1: Anytime an issue reaches the Supreme Court it is significant. The criticism is shaded by todays world of political influence and skulldudgery
+user2: Are you a fan of Historical/Political dramas in general, or does it have to be an exceptionally captivating movie for you to want to see it?
+user1: It sure was a different time then, today all purity is gone. And our appetite for factual truth has changed.
+user2: Given that this movie was released in 2017, do you feel that this reflects positively or poorly for society's appetite for factual truth?
+user1: Don't know?
+
+conversation:
+user1: Hi, there! Have you seen "The Post"?
+user2: No, I have not.
+user2: Have you seen it?
+user1: I haven't either, but it looks to be a good movie. It stars Merrell Streep and Tom hanks. I think both of them are really good! How about you?
+user2: It's a Stephen movie, his movies are usually good.
+user1: True. I love movies about newspaper stuff, too. Do you?
+user2: Yes, it looks like a good story and is fact based.
+user1: Even rotton tomatoes liked it!
+user2: I like Sarah Paulson as well.
+user1: You know, I don't know her by name!
+user2: She's a good actress.
+user2: it gets high marks among all the critics.
+user1: It's interesting how most people probably supported how Ellsberg copied the classified documents and those same people today -- much older -- are probably opposed to Wikileaks!
+user2: It's set in the early 1970's, so it should be interesting to go back to that time.
+user1: I agree. Back when newspapers, like WAshPost & NYTimes, was newspapers!
+user2: Publishing classified documents, it has significance for present day.
+user1: I agree! My sister was around then and thought it was great, but she really hates Solange, the Wikileaks guy. I wonder what she sees as the difference? I think people just get older and more conservative.
+user1: That Nixon! He was after everyone who dissented, wasn't he?
+user2: Yea, Nixon was something.
+user1: Something else! ha ha!
+user1: I didn't realize the newspaper was a Graham family business.
+user2: I didn't either, although that's one of the good things about this film, we'll learn things we didn't know.
+user1: I agree! I really like that!
+user1: I'm glad she decided to run the story and set the precedent of publishing difficult material
+user2: I didn't know the US was involved in the Vietnam for 30 years.
+user2: I'm glad she did as well.
+user1: Ha ha! Well, there's the pot calling the kettle black - 1 year later is watergate!
+user2: Yep and we know what happens after that.
+user1: Indeed. Checkers and his family move out of the white house. I'm surprised 3 justices vote against the newspaper!
+user2: That is surprising.
+user1: It's also surprising the White House can bar reputable papers.
+user2: Isn't it, why would the law allow that in a democracy?
+user1: Maybe the White House is above the law... considering the subject matter of the movie itself!!
+user2: It certainly seems that way.
+user1: Do you plan to watch the movie?
+user2: I see they compare this movie to All The President's Men, have you ever seen that?
+user1: Yes, I have. It's great!!
+user2: Yes,I plan to watch it.
+user1: It reminds me a bit of Spotlight, too, where they ran the story on the abuse by the Catholic priests. I'm going to look up The Post, too!
+user1: I've enjoyed talking to you today! Have a great rest of your day!
+user2: Spotlight is an excellent film,  I enjoyed talking to you as well, have a good day.
+
+conversation:
+user1: Hi
+user2: Hello
+user1: Have you watched this movie?
+user2: No. But sounds interesting.
+user2: I like movies based on historical facts.
+user1: The ratings look good
+user1: I kinda do too
+user1: Do you care about ratings?
+user2: I do. But I might watch a movie with poor ratings if I think it seems interesting.
+user1: I agree
+user1: I really love the cast
+user1: I'm not a big fan of Meryl Streep but i think she is a good actress. I love Tom Hanks
+user2: I love both of them. Might just see the movie because they are in it.
+user1: So this movie is about a journalist who attempts to publish the pentagon papers
+user1: Sounds really interesting
+user1: I like Steven Spielberg, he makes great movies
+user2: Yes, he is a good director.
+user1: the movie came out in 2017, i can't believe i've never heard about it
+user1: Are historical movies your favorite genre?
+user2: I've heard of it. It's on my watch list. But I just don't have the time.
+user2: Yes, they are.
+user2: What's your favorite genre?
+user1: I'm not sure. I'm a movie person, i really love most genres. I guess romantic movies are my favorite
+user1: Critics agree that this movie is great
+user1: I never really care what critics say though. Sometimes they say the movie is bad and i think the movie is amazing. And vise versa, sometimes they say the movie is great and i'm like meh
+user2: Agree
+user1: After watching a historical movie do you ever google historical facts the movie is based on?
+user2: All the time. But it's better to watch the movie. Gives you a sense of what the it was really like for the people involved.
+user1: I agree but im always curious about the real events
+user1: Do you watch movies often?
+user2: When I have time. But rarely when they come out.
+user2: How about you?
+user1: I used to watch movies almost every day
+user1: i have a baby now so i watch maybe one or two movies aweek
+user1: Rotten Tomatoes rating is 88%. That's a really good score. I usually check rotten tomatoes before watching a movie
+user2: I don't really trust rotten tomatoes.
+user1: why
+user2: I think the use audience scores in their evaluation, don't they?
+
+conversation:
+user1: hello how are you?
+user2: Good how are you?
+user1: doing ok
+user1: so what did you read?
+user2: The Post is a great mlvie from Spielberg. It is all about bringing the truth to public
+user2: How about you?
+user1: didn't read anything
+user1: I am supposed to get the summary of the document from you right?
+user2: Do you like movies with a political statement?
+user1: somewhat
+user2: Correct
+user1: tell me more about the post
+user2: The post seems to do a good job as a political thriller. How the washington post can be manipulated
+user2: How they brainwash people and how to persuade them to publish the truth
+user1: oh ok
+user1: not bad
+user1: not a big fan of streep though
+user2: It's just like having a story passively explained as oppose to active description
+user1: have you seen it?
+user2: The one thing I didn't like reading was thst this makes a statement of manipulation
+user2: No i havent seem it
+user2: But as i read i feel like
+user1: how long do we do this for?
+user2: Thry compare this movie to All the President's men
+user2: Thats a good question lol
+user1: we need to respond to each other at least 20 times
+user2: Sure. I thin we are almost there then
+user2: You are at 14
+user1: how many documets have we gone through?
+user1: you were supposed to go through 4 of them?
+user2: 3 
+user1: so i think we have one more
+user2: Keep on responding ill let you know when the 4th shows up
+user2: Now they talk about the white house retaliation
+user2: And that doesnt interest me much
+user1: do you like the other guy in the movie?
+user1: tom hanks
+user2: He's generally ok but sometimes i dont like him
+user2: Do you like him?
+user1: hes alright
+user1: i guess we can finish our conversation now
+user2: I hope to finish
+user1: have a good night
+
+conversation:
+user2: Hello
+user1: hi
+user1: please tell me the name of the movie
+user2: The Post
+user2: Have you heard of it
+user1: yes
+user1: i have no interest in seeing it though
+user2: Have you done this kind of task before
+user1: nope, 1st time
+user1: are you a bot?
+user2: Nope
+user2: I am new to this
+user1: cool, same
+user2: So Meryl Streep is in it
+user2: Do you like her as an actress
+user1: not even a little
+user2: Haha
+user2: Why not
+user1: her politics 
+user2: Ahh that makes sense
+user1: used to like Tom Hanks, but he's ruined that with his politics too
+user2: Word
+user2: I don't think I really like him either
+user2: WILSONNNNNNNNNNNNNN
+user2: OOPS i think i broke the rule on that one
+user2: What about Steven Spielberg
+user2: Do you like him
+user1: He's ok, did some good stuff yrs ago.  want to see his new one
+user2: Ah ok
+user2: Im supposed to keep talking about this movie
+user2: It seems boring though
+user2: Would you say so
+user1: aye, I'm familiar with the pentagon paper and the orig story, but yeah boring
+user2: Yeah agreed
+user2: The whole history thing then paired with Tom Hanks, it's meh
+user1: aye
+user1: just trying to rehash old stories to influence current political happenings.  muh russia
+user2: Okay now what do we do
+user2: Keep talking?
+user1: it said we were suppose to chat at least 15 times lol
+user2: Haha ok
+user2: So it says this has all the making on an awards season hit, but its too calculated"
+user1: I assumed this would be a bot chat to see if we could tell that it wasn't a real person
+user2: I would have to agree
+user2: Plus the people they cast in movies today is so awkward
+user1: yep, they tried to push it of the oscars
+user2: Oh
+user2: I AM NOT A ROBOT lol
+user1: awesome, me either
+user2: >:D
+user2: Or so you would have me believe..
+user2: Oh it says to keep talking about the paragraph I have
+user1: hahaha looks like a finish conversation button just popped up
+user2: Spielberg why 
+user2: oh ok nice chat
+user2: ttyl non robot
+user1: have a great day!
+user2: u2!
+
+conversation:
+user2: Hi, what movie did you see?
+user1: Hey!
+user1: I just saw The Post with Meryl Streep and Tom Hanks!
+user2: Oh cool, what is it about?
+user1: It is about the Washington Post
+user2: Oh cool beans, so it's a historical movie?  A documentary?
+user1: set in the 70s, featurng the first female publisher of a major US publication, its a political thriller about the release of the Pentagon Papers
+user2: Oh nice.  Did it get good reviews?
+user1: Pretty good! 88% from Rotten Tomatoes and Conema Score of A
+user1: Cinema*
+user2: Nice!  
+user2: What did the critics have to say about it?
+user1: The critics liked it - it's intriguing and easy to follow
+user2: Cool cool.  When did it come out?
+user1: It was just released last year
+user2: Oh okay.  Was there any other famous actors in it?
+user1: Yeah! Sarah Paulson plays a supporting role
+user1: I think she's awesome!
+user2: Oh cool, I like her.
+user2: Can you tell me about any important scenes?
+user1: It is mostly about the decision to release the documents or not - not knowing the effect that it will have on the country and the world!
+user1: It could also ruin the newspaper and the main characters job
+user2: Hmm sounds interesting
+user2: Who did Sarah Paulson play?
+user1: She plays Tony Bradlee,
+user2: Oh okay
+user1: who's related to Tom Hanks' charachter, Ben Bradlee
+user2: Cool 
+user2: Who is Ben Bradlee?
+user1: He's the executive editor of the paper, The "boss"
+user2: Cool, thank you for the info!
+
+conversation:
+user2: Good morning
+user1: Hello!  I just saw a good movie.
+user2: You did? Tell me about it?
+user1: Have you seen the Post yet?
+user2: I have not seen it yet, but I have heard good things
+user1: It has Meryl Streep and Tom Hanks in it.
+user2: Two great actors
+user1: Its an edge of the seat historical drama.
+user2: Sounds intriguing...
+user1: It is!  And it was directed by Steven Spielberg.
+user2: His movies are generally pretty good, in my opinion
+user1: Yes.  This one is set during the Vietnam War, and the main roles are reporters.
+user2: What are they reporting about?
+user1: They are trying to leak the Pentagon Papers, which were classified government reports of the war.
+user2: I remember hearing about that... Was kind of a big deal, right?
+user1: Yes.  Meryl Streep is the executive editor of The Washington Post, but the documents eventually are leaked by The New York Times.
+user2: I see, so the Post did not put them out?
+user1: The Washington Post finally gets hold of them, but after the reporters scour through them all, their lawyers advise them not to print or face being arrested by President Nixon.
+user2: That is some kind of mess
+user1: Meryl Streep agonizes over whether to publish the stories or not.  If she does, it will either destroy the newspaper or make it famous.
+user2: Makes sense, tough decision there
+user1: Yes, one of those make or break deals.  I don't want to spoil the story and let you know what she did.....
+user1: ....unless you want me to....
+user2: Good idea... Let me see for myself. :)
+user1: Do you think you'll watch it?
+user2: I have been meaning to, it looked like a good film, and I tend to like historical ones
+user1: Well the interesting thing about it all is that the Watergate break-in happened one year later.  And we all know how that turned out!
+user1: It is definitely worth watching.
+user2: Definitely, I agree
+
+conversation:
+user2: The post seems like a movie that could inspire a lot of thought and emotion considering our current political climate. Do you agree?
+user1: Exactly, in our current situation it is very relevant
+user1: our president wants to call out news for being "fake"
+user2: I have yet to see it but it's top on my list. I think the more people who view this film, it could encourage others to challenge the government, which is very much needed today
+user1: Meryl Streep was very outspoken about it in an acceptance speach
+user1: she will influence others
+user2: He hates "fake" news because he can't handle the truth. Meryl streep is brilliant
+user2: This movie has done well
+user1: I Agree, it seems like we are moving backward instead of forward 
+user2: I don't think there are enough political movies
+user1: This is true do you think producers are afraid to make these kinds of movies?
+user2: tom hanks is also a strong actor
+user2: I would say yes, many are probably fearful.
+user2: However, Spielberg is a legend and wouldnt take it on if it wasnt worth doing
+user2: it seems as though the critics are largely in support of this film and it's delivery
+user1: i know for sure it is under rated
+user1: also historical/political movies are rare
+user1: especially now in days
+user1: no one takes interest in them because they seem "boring"
+user2: the article references great acting which doesn't surprise me considering the well known cast
+user1: very true people have "expectations" with the cast
+user1: really makes you wake up and see just how corrupt everything is 
+user2: I am unfamiliar with the "pentagon papers"
+user1: crazy, the truth will somehow come out and they try to shut down the source, really makes you think what they could be hiding
+user2: i was unaware that eiseinberg was involved in the leaking of the document
+user1: did he have a big role?
+user2: the article references his political involvement with the post in 1966
+user1: oh yes true, so do you agree with history tends to repeat itself?
+user2: i agree and i seems as if the critics who've reviewed this film agree
+user2: I was unaware that this movie touches on supreme court hearings regarding the first amendment
+user1: and you know meryl's character was the first female publisher of a newspaper that big
+user2: i look forward to seeing this movie
+user2: i am unfamiliar with nixons historical involvement in this 
+user2: do you find this to be a movie you would like to see?
+user1: i do too reading this made it interesting, but also afraid
+user1: ignorance is a bliss
+user1: how about you?
+user2: i agree the more i read on this the more interested i am 
+user2: thanks for chatting
+
+conversation:
+user1: Good evening.
+user2: The movie you should watch is called "The Post"  
+user1: The Post? What is it about?
+user2: It is a political thriller.
+user1: A political thriller? Is it a historical movie or based on real events?
+user1: Who stars in it?
+user2: It is a historical movie of a news paper's struggle against the government written my Steven Spielberg starring Meryl Streep and Tom Hanks.
+user1: Wow, Spielberg Streep and Hanks huh? Sounds like a pretty good lineup. Do you know who is directing it?
+user2: Steven Spielberg.
+user1: Makes sense I suppose. Is it coming out soon, or is it already in theatres?
+user2: It is a 2017 movie.  
+user1: Ah, so it came out already. I suppose I'll have to check it out from rentals or on DVD/Blu-Ray.
+user1: Were the reviews for the movie good?
+user1: Good directors and actors do not necessarily make a good film of course.
+user2: It doesn't say.  But backing up a little, Steven Spielber produced it, but Liz Hanna and Josh Singer wrote it.
+user1: Ah, thanks for clarifying. Two totally different levels of involvement in the movie there. It still does sound interesting though.
+user1: When they say the Post, do they mean like the Washington Post? I know they were involved in a couple of big things like Watergate.
+user2: Ellsberg who became confused by Secretary of Defense Robert McNamara is the one who photocopies the classified reports documenting the 10 year involvement in the conflict of Vietnam.
+user2: He then leaks these documents to the reporters at the New York Times. 
+user1: Ooh, Vietnam War stuff. There's a lot you could do about that. 
+user1: So what else happens after the leak?
+user2: Maybe it is talking also about the Washington Post because the Post assistant editor tracks down Ellsberg as the source of the leak and attains the copies of what Ellsberg gave to the New York Times.
+user1: Ah. And then I guess there's a battle over getting the documents published.
+user2: The a few Post reporters sift through the papers.
+user1: Do they find anything interesting?
+user2: Well, the lawyers told them not to post and publish it lest they get Nixon down their backs.
+user1: Ah, Richard Nixon. Surprise surprise. 
+user1: I take it they go ahead and try anyway?
+user2: The White House did come after them after they decided to post it anyway.
+user1: Makes sense. Classified information and all.
+user1: How bad does it get?
+user2: They ended up in the Supreme Court, of course, to plead their 1st Amendment right s.
+user2: The court ruled 6-3 in the newspaper's favor!
+user1: Great! Win for the free press right there!
+user2: Nixon demanded that the Post be barred from the White House.
+user1: I'm sure that went over well.
+user1: And then a little thing called Watergate happened.
+user1: Sounds like a riveting film. I might have to check it out.
+user2: However, a year later, there was a break-in in progress at the Watergate complex, but the security guard discovered it.
+user1: Yeah. And I know what happened after that.
+user2: I heard about this movie, myself and can't wait to find it and watch it.  You really should educate yourself with this movie!
+user1: I plan to. Thanks for telling me about it!
+user1: It really does sound interesting.
+user2: By the way, Meryl Streep acts as Katharine Graham.
+user1: Ah Does she work at the post?
+user1: I think you told me she did.
+user1: I'm sure she puts on a fine performance.
+user2: She stood to lose her newspaper by exposing this material.  The newspaper was her family legacy to her.  There was a struggle their.  She risked it all.
+user2: She owns the Post.
+user1: That's a big risk. I think it paid off though.
+user1: I'll give it a look on On Demand soon. Thanks.
+user2: Oh, the rating was 88%
+user1: Rotten Tomatoes? That's very goof.
+user1: good*
+user2: The Metacritic score was 83/100.
+user1: Both good scores. More reason to check it out.
+user2: The Cinema Score was A.
+user1: Even more reason!
+user1: Thanks for the info.
+user2: Your quite welcome.
+user1: I have to go now, but I'll definitely give the movie a look. Have a nice day.
+user2: You too!
+
+conversation:
+user1: Hello
+user2: Hi,  how are you today?
+user1: Fine.  And you?
+user2: Great.  Do you like political thrillers?
+user1: Not my favorite, but i like some of them.
+user2: Have you eaver heard of the movie "The Post"?
+user1: yes
+user1: haven't seen it though, so don't know much about it
+user1: still there?
+
+conversation:
+user2: Hello!
+user1: hello
+user2: Nice, we said hello at the same time!
+user2: Have you seen this movie?
+user1: yep
+user1: do you agree the rating fro rotten tomatoes?
+user1: yes
+user2: It's a good enough score.
+user1: rating of 88, is bit high, well in my opinion
+user1: yeah
+user2: Do you think is too high for the quality of the movie?
+user2: Do you think they deserve a lower score?
+user1: yeah high 70s is what i expected
+user1: ever wondered how movie ratings are judged?
+user1: some movies which deserve more get less sometimes :)
+user1: from critics
+user2: Yeah, but rotten tomatoes also has an audience score, right?
+user1: so i always look out for user ratings rather than critics
+user1: yes they do
+user1: do you think the key scenes truly depict what happened during vietnam war?
+user2: More or less. I guess some of the scenes have been given a more dramatic flair.
+user2: To make it more watchable
+user1: yeap to garner more audience
+user1: agreed
+user1: what other movies directed by spielberg you like most?
+user1: i havent missed a film directed by him :)
+user2: I'm a science fiction fan, so E.T. is kind of my favorite
+user1: nice
+user2: How about you, what's your favorite?
+user2: Are you a fan of these historical political films?
+user1: jurassic park...one of the classics
+user2: That's a good one too.
+user1: not much but when a film depicts what happened back in history, i watch them
+user1: i kind of like exploring things, even if that's history :)
+user2: So more of a fan of the historical than the political.
+user1: do you know if the watergate scandal related to this at all?
+user2: I don't think so. 
+user2: But kind of the same time, more or less, isn't it?
+user1: this was kind  of included in the document...so confused
+user1: yeap durind Nixon's presidency
+user1: do you agree to all the critical responses on this film?
+user2: They are kinda of divided.
+user2: The critics, I mean.
+user1: yeap...
+user1: what does it take to be a critic?
+user2: Interested in becoming one?
+user1: not at all but just thinking how one can ever judge what the director has in his mind & portrays something :)
+user1: anyways...have a nice day
+user1: bye
+user2: You too
+user2: Bye
+
+conversation:
+user1: Hi
+user1: I love thrillers
+user2: I love thrillers also, ones that involve the government like this one I like especially. This movie also has a great cast of actors as well.
+user1: I don't think I have watched a political thriller though.
+user1: It also seems to be a political drama from the critical response.
+user2: This movie is reminiscent of a Tom Clancy book I read, the 1950's-1970's was a period in which a lot of chaos was going on within our government, it was a very crucial point in our government and country's history and this movie seems to have done a good job in portraying that time period and the struggles within accurately
+user1: It is a recent movie, 2017. I wonder if it's popular.
+user2: I haven't heard too many people talk about it, I don't think I've seen it in theaters either.
+user1: It is also based off of a true story.
+user2: I didn't notice that, it really makes the story stand out more when you know they're based off of actual events
+user1: I only know Tom Hanks from the actors.
+user2: Bob Odenkirk is a great actor, he played Saul in Breaking Bad if you're familiar with it, and he's a great actor for political and suit-and-tie roles like this one. Meryl Streep is also a great actress, she has many roles but not many im familiar with
+user1: It's got great ratings 7.9/10. Seems like it's worth watching.
+user2: I agree completely, it definitely seems as though this movie accurately depicts many things in that time period and helps us understand the history and reasoning behind it instead of displaying it for entertainment
+user1: Wow, they were going to publish classified documents about the Vietnam war.
+user1: That is very brave and a huge task to take on.
+user2: It definitely is, that's is a huge self sacrifice they were willing to accept and one that had serious consequences to go with it
+user1: I can imagine the suspense involved in the movie
+user2: I could imagine with so much on the line, the stakes are huge and the movie seemed to really bring attention to the motivation and drive they had to break the chain of dishonesty and misdirection in our government
+user1: Journalists have a tough job to do.
+user2: They do, especially after seeing how much negative pressure was put on them by the current Nixon administration to not post anything that could harm it's reputation. It really shows how much corruption was obviously present in those days;
+user1: Have you watched All the President's men
+user2: I have watched it, and I really preferred it to The Post, however, it was a great movie in it's own right and they both have multiple things that help them stand out as such
+user1: They liken the post to it. 
+user1: I can't imagine how challenging it was for them
+user2: The movie really does a great job of setting an example of how the right person in the right situation can bring about unprecedented change, like when Ellsberg overhears a contradictory message from the Secretary of Defense, he becomes disillusioned towards the government's position on the war. He waited years to do something about it and when he finally did, it paid off for sure
+user1: I will have to go watch it. Sounds super interesting.
+user2: It does sound great, the portrayal of these characters were done very well and you can really imagine the internalized struggles they're going through. That kind of stress definitely will take it's toll on you.
+user1: All for justice
+user2: Right, it sent the message that not everyone is complicit in these kinds of activities that affect the lives of millions of people.
+user1: Society needs brave people like these. 
+user1: They tried to break the cycle.
+user2: Do you think this movie sounds interesting enough to check out other movies within the genre that are around the same rating?
+
+conversation:
+user2: hi
+user1: hello
+user2: i havn't seen this
+user1: what movie is it
+user2: no idea what its about
+user2: the post
+user2: 'historical political thriller'
+user2: you didn't have 4 movies to chose from?
+user1: what is it about
+user1: no ur supposed to tell me about the movie
+user2: oh ok
+user2: something about the pentagon papers
+user1: whos the main cahracter
+user2: had something to do with the Vietnam war
+user1: ok who acts in it
+user2: meryl streep and tom hanks
+user2: still trying to figure out who stars
+user1: ok
+user2: ok shes a book publisher, he's a newspaper editor
+user1: what does that have to do with the vietnam war
+user1: when did the movie come otu
+user1: out*
+user2: 2017 so its pretty new
+user2: i 'm fluent in typo
+user2: a civilian photocopied the pentagon papers
+user2: not sure what the bottom line was
+user1: what was the significance of the pentagon papers
+user2: either that they thought they couldn't win or they were sure they could
+user1: what year was the movie setting
+user2: the 70s
+user2: nixon tried to keep the post out of the whitehouse
+user1: oh  how come
+user2: ended up being a supreme court case - another victory for free speech 
+user2: i guess they didn't like the leak or like what the leak said
+user1: how did it do on critical reviews
+user2: i still can't get to the bottom line of what it said tho
+user2: 88 rotton tomatoes
+user1: oh thats pretty good
+
+conversation:
+user2: What is the name of the movie?
+user1: The movie is called "The Post"
+user1: It just came out last year
+user2: What was so interesting about it?
+user1: What was so interesting about it was that it was actually based on a true story
+user1: it had an all star cast "Meryl Streep" "Tom Hanks"
+user2: Would you consider watching it in your spare time?
+user1: It also really was timely because it deals with a lot of things going on today in politics even though the story happened almost 40 years ago
+user1: I definitely would
+user2: What was the plot?
+user2: Was it complicated? Could it be followed?
+user1: The plot basically centers around some journalists who work for the Washington Post who want to publish The Pentagon Papers, which were these secret files about the US involvement in Vietnam over the prior three decades
+user1: Its a little complicated and probably better for later teens and adults to watch
+user2: Does it involve more true based stories or more of a fake news type of thing? (in your opinion)
+user1: I think the research is pretty accurate, there might be some creative liberties taken with the characters private conversations but the broad historical context is quite accurate and verifiable 
+user2: Is it centered around the Vietnam war? 
+user1: Definitely, it focuses on the US government's effort to hush or quiet the reasons their in the war and communicate that they are positive about the results even thought their involvement has yielded little 
+user2: So does the Vietnam war effect the focus or direction of this film? Or is it just mentioned in the context?
+user1: It definitely centers on the US' involvement and for such an extended period of time so I think think its certainly the focus of the story even if we are viewing it from outside of vietnam, its the gasoline that lets the engine of the film run
+user2: Makes sense. How about the reviews. From what you have read, do you think they are going to be positive or more on the negative side?
+user1: Overall I think the reviews are going to be average to good. However due to the current political climate around how the government and news institutions operate its going to certainly incense some critics.
+user2: Is this more of a Conservative type of media, or liberal. Which side is going to take offense?
+user1: Its hard to say though Critics sometimes say things for reasons non of us can understand
+user1: Does this sound like a movie you'd watch?
+user2: (Still there?)
+user2: To who is this movie portrayed for
+user2: what type of political audience?
+user1: Hello?
+
+conversation:
+user2: The movie is The Post, directed by Steven Spielberg, Rotten Tomatoes is 88%, 7.9/10, metric score of 83/100, Cinema score is an A.
+user1: Hello, have you seen this movie?
+user2: The main actresses/actors are Meryl Streep, Tom Hanks, Sarah Paulson, Bob Odenkirk and Tracy Letts
+user2: No, I haven't. Have you?
+user1: No but it does have a high rating and this makes me more interested in seeing it
+user2: Yeah! It's a historical political thriller
+user1: Exactly. That's one of my favorite genres
+user2: The first female newspaper publishers.
+user2: Set i the early 1970s.
+user2: It is based on a true story
+user1: It sounds like a great historical drama
+user2: They want to publish classified information about the Vietnam War.
+user2: I'd like to watch it.
+user1: I didn't know it was based on a true story. It should be interesting.
+user2: Basically they document the war and years later, someone leaks the information.
+user2: Yeah, I'm surprised I've never heard of it
+user1: It is about the Vietnam era 
+user2: Yes
+user1: Has a lot of political intrigue
+user2: But it's leaked 30 years later.
+user2: I agree.
+user1: Exactly and in 2017 the movie about this comes out
+user2: They did a good job of hiding it.
+user1: I'm not really surprised by this
+user2: They struggled on whether or not to publish.
+user2: Me either.
+user2: Government is so crooked.
+user1: Movies like this helps to show what happened
+user2: They decided to run it in the paper
+user1: Yes without that, it would probably still be hidden
+user2: This is the stuff they need to teach in school.
+user2: Such a great cast too.
+user1: Yeah this is also about the first amendment for the right to publish the material
+user2: They took it to court.
+user2: With the White House.
+user1: Yes i love steven spielberg, meryl streep, and tom hanks
+user2: Other newspapers joined in with the Post.
+user1: Makes you wonder that without the media if any of this would have come to light
+user2: Then, the break in at Watergate happens.
+user2: I agree, but how much does the media already cover up.
+user1: It's also of important history there in the making
+user1: exactly good thing the media printed it
+user2: I'm going to watch it later.
+user2: Good chatting!
+user1: yes quite interesting
+
+conversation:
+user2: hiii
+user1: hello
+user1: Have you ever watched movie Post?
+user2: noo, never, is this the movie?
+user1: This is a movie with Tom Hanks and Meryl Streep in it.
+user2: it sounds very interesting
+user1: Yes. Its about the fist female publisher in a major American news paper of Washington Post.
+user2: and what do the critics of this movie say?
+user1: It has the  ratings of 7.9.
+user1: 7.9 out of 10
+user1: It is directed by iconic Steven Spielberg
+user2: That is very good
+user2: with that director and that cast you hear the movie very good
+user1: The scene takes place in 1966
+user1: in Vietnam
+user2: I love the movies of today set in those times
+user1: So what do you thing about this movie?
+user1: Ok.
+user1: Me as well. I like the scenery very much.
+user2: that sounds very interesting, I like his cast, his director, his adaptation in the 60s, I would like you to contras a bit more of his story ... please
+user1: Ok. No problem
+user1: Give me a minute, please.
+user2: ok, take your time, I want you to convince me
+user1: This movie is historical political thriller.
+user2: political history? from United States?
+user1: Yes it is
+user2: Who was the president at that time? Nixon ???
+user1: Let me check, please.
+user1: Lyndon B. Johnson was a president at that time.
+user2: and in the movie they say about ??  or what is the main political issue?
+user1: Katherine Graham who played by Meryl Streep could destroy the newspaper that she sees as a family legacy.
+user1: She chooses to run her story instead establishing the Post itself.
+user2: and that is negative?
+user1: Not necessarily
+user1: That was the history in the making
+user2: and what happens next? what is the role of Tom Hanks??
+user1: Ok. Tom Hanks is played as Ben Bradly.
+user1: He is Post assistance editor.
+user2: The "complice" of Graham, right?
+user1: Yes, that is right
+user1: The story plot  is really controversial.
+user2: I'm really interested in watching this movie, thanks for your instructions, it means a lot to me
+user2: have a great day, thank you
+user1: thank you
+user1: Have a nice day
+
+conversation:
+user1: Hey
+user2: Hello, have you heard of The Post
+user1: No im not even familiar with the title. 
+user1: What type of movie is it?
+user1: action, comedy, drama?
+user2: It is a 2017 American historical thriller film directed by Steven Speilberg
+user2: It is a political thriller
+user1: wow i cant believe i never heard of it. 
+user1: who is in the cast?
+user1: any big named actors?
+user2: It stars pretty big actors such as Meryl Streep as Katherine Gramham and Tom Hanks as Ben Bradlee
+user2: Katherine Graham was the first female publisher of a American Newspaper
+user1: whats the plot of the film about?
+user2: The movie is set is the 1970's and the washington post tries to publish unclassified documents
+user1: ok i see 
+user1: whats tom hanks role in the movie?
+user2: such as pentagon papers regarding the 30 year involvement with the US government in the vietnam war
+user2: Tom Hanks plays Ben Bradlee and is the executive editor of the Washington Post
+user1: sounds interesting. 
+user2: The movie has very good ratings
+user1: How did you like the film?
+user1: was it worth the time to watch?
+user2: The movie is interesting and insightful the news broke then is different from now
+user2: definitely 
+user2: A key scene is when the Nixon administration brings charges against the Post
+user1: did you have any favorite scenes from the movie?
+user2: Or rather wants to bring charges against them
+user2: Most scenes with Meryl was great
+user1: how about meryl streep? what was her role in the film?
+user1: shes a great actor. 
+user2: Her role was being a publisher of an major American newspaper
+user2: Nixon also wants The Post to be banned from the White House
+user1: So was all this based on true events?
+user2: Yes
+user2: Thanks for chatting
+
+conversation:
+user1: Hello, how are you?
+user2: Hi, everything OK
+user2: How are you?
+user1: Fine, fine. Tell me, do you know any good movie?
+user2: Do you like Historical, political movies?
+user2: I have seen one recently :)
+user1: Yes, surely. I would like to more about the movie!
+user2: The Post is a historical political thriller directed and produced by Spielberg
+user2: The film has quite good ratings... Rotten Tomatoes gives 88% and 7.9/10
+user1: Interesting, who are the main actors?
+user2: do you like Meryl Streep?
+user2: or Tom Hanks?
+user2: also Sarah Paulson, Bob Odenkirk and Tracy Letts
+user1: Yes, both. I love their films, they are able to bring life into their characters!
+user2: It's true...
+user2: The Post depict the true story of attempts by journalists at The Washington Post to publish the Pentagon papers
+user2: it's about the 30-year involvement of the U.S. government in the Vietnam War
+user1: Oh I see, confidential information leaks. Quite intriguing!
+user2: Have you watched this film?
+user1: No, I have heard of it but haven't watched it yet. And you?
+user2: I've watched this film
+user2: It's worth the time spending in the cinema :)
+user1: Awesome! I should dedicate some time to watch it soon
+user1: How was the acting and the photography of the film?
+user2: Just like in spielberg's films, everything is perfect.
+user1: He has a great perspective and he just know perfectly how to present his vision to everyone else. 
+user1: What do you think is the most important moment in the film?
+user2: In my opinion there is no single key moment, the whole plot is important :)
+user1: Great, so I should be focused since the beginning!
+user1: And what do you think is the message to the audience?
+user2: it starts in 1966 in Vietnam
+user2: the right of the press to publish secret documents is important for a genuine democracy
+user1: Yes, great message. I haven't seen it yet, but also I think it is important to know that fighting for the right cause is not an easy task, never.
+user2: do you have any more questions?
+user1: Not really, do you want to tell me more details or impressions?
+user2: I wouldn't like to reveal important details of the film if you want to watch it.
+user2: so thank you for the conversation
+user2: or.. one moment
+user1: Don't worry, you won't ruin the movie for me. I like when people share their view with me!
+user2: sometimes it is worth to go to the film without knowing too much details :)
+user1: Well, thanks for the conversation!
+user2: thank you for the conversation, have a nice day!
+user1: To you too!
+
+conversation:
+user2: Do you like political thrillers?
+user1: Yes I do! What about you?
+user2: Yes, I do.  Have you ever heard of "The Post"?
+user1: Yes, I saw it in the theater. Have you seen it? Do you like Meryl Streep? 
+user2: No, I haven't seen it.  I don't know any of her movies.
+user1: Wow. That is surprising. I really like her acting. 
+user2: I am sure that she was great in the movie
+user1: Based on this discription do you think you would lite this movie?
+user2: Yes
+user2: I love Tom hanks
+user1: Have you seen movies about news paper companies before?
+user2: Only one.  "It's a wonderful Life"
+user1: What about movies about the Vietnam war?
+user2: Armageddon?
+user1: I have not seen that 
+user2: My mistake.  That one was about Pearl Harbor
+user1: Do you think you would like the movie based on the key scene described?
+user2: Not really.  It does not sound that interesting
+user2: The critics seem to love it though.  It got 88% on rotten tomatoes
+user1: Yeah, I think people like historical movies. 
+user1: And there are big stars in the move. 
+user1: What do you think about her running the story? Was that the right decision?
+user2: Freedom of the press
+user1: So yes?
+user2: Unless it is likely to embarrass a whole nation.   
+user1: It sounds like that was the issue. But the SC ruled it was okay. 
+user1: Do you think you would like the ending of the movie?
+user2: I think it was expected.
+user2: What do you think?
+user1: I think it would be a likable ending. 
+user2: I wonder if the movie was faithful to the events.  You know how they like to change up things for cinematic effect
+user1: Right. That is a good question. I dont know if Spielberg usually does tha t
+
+conversation:
+user1: hi
+user1: what is the title of the movie ?
+user2: Hi
+user2: It's called The Post
+user2: very recent movie
+user2: very interesting depiction of a true story
+user2: It's about Washington Post journalists trying to publish the Pentagon Papers
+user1: when it happened ?
+user2: It is set in the early 1970s
+user2: Amazing cast...Meryl Streep, Tom Hanks, Bob Odenkirk
+user2: And directed by Steven Spielberg!
+user1: That is a great cast indeed
+user2: And 88% on Rotten Tomatoes!
+user1: how long is the film ?
+user2: I'm not sure how long it is but it had a CinemaScore of A
+user1: any negative feedback ?
+user2: No but I'll tell you about some key scenes
+user2: It starts in Vietnam in 1996 and follows State Department military analyst Daniel Ellsberg
+user2: He grows disillusioned with the war so he starts taking secret photocopies of classified Vietnam reports
+user2: then leaks them to the New York Times!
+user1: ok, it seems interesting
+user2: Not so different from real life today :-)
+user2: Yes extremely interesting
+user2: No wonder one critic said "Spielberg makes these crucial days in American history easy to follow"
+user1: It seems a great movie, what is the main point of the plot ?
+user2: It's a political thriller
+user2: You're basically watching what happens when the people on the inside get fed up
+user2: And take their case directly to the people on the outside
+user2: aka the American Public!
+user1: So there is as much action in the Pentagon as in the offices of the Post ?
+user2: I'm not sure, the key scenes of the movie focuson the Post
+user2: Lots of drama there
+user2: e.g. they're worried the Nixon administration could bring CRIMINAL chrges against them!
+user1: OK, so it is a little like Spotlight ?
+user2: Yes exacty
+user2: the Post also wants to establish itself as an important institution
+user2: so they're vying both for the american public and themselves
+user1: Who are the main protagonists of the story ?
+user2: There's Daniel Ellsberg, the leaker
+user2: Katherine Graham, the head of the  Post
+user1: played by whom ?
+user2: The assistant editor of the Post is a big one
+user2: so he's played by Tom Hanks
+user2: It eventually climaxes in a legal battle
+user2: The White house does indeed retaliate, as feared
+user2: But the Supreme Court rules 6-3 for the nespaper
+user1: oh, how do they react ?
+user2: The Post is thrilled, they've made a name for themselves!
+user2: And newspapers across the country carry the story in solidarity
+user1: That is a good ending. I like that.
+user2: And then at the very end, the Post discovers Watergate....
+user2: Nice teaser :-)
+user2: Maybe a sequel coming!!!!!!!!!!!
+user1: That would be great.
+user1: What did you liked to most about the film ?
+user1: bye
+
+conversation:
+user1: Hello!
+user2: Hi, how are you?
+user1: I am wonderful, how are you?
+user2: I'm good. Have you seen this movie?
+user1: NO I have not seen this movie, but it sounds like a good one
+user1: Have you watched the POst?
+user2: It does! I really enjoy Tom Hanks as an actor.
+user2: I have not, I tend to wait until things come out in streaming services
+user2: Do you watch many movies in a theater?
+user1: I love Tom Hanks also
+user1: I don't get to go to the theater often. With 4 kids it's just to expensive
+user2: Yes, I only go with my daughter also
+user1: Movie tickets here are $10.50 a piece, so around $70 for my family
+user2: I hear you. And unless you sneak in treats, that is another $50...
+user1: I think the last movie I saw in theaters was the original cars lol
+user2: We saw a Star Wars movie early last year, and my daughter went to go see Wonder Woman with my wife
+user2: I just get too busy
+user1: The Post has got a great rating, i might have to watch it sometime. Wonder if it's on demand
+user2: It looks like the Vietnam War is a strong theme throughout the movie
+user1: I enjoy historical movies
+user2: I really enjoy them if they're not embellished too much.
+user2: There was one about the Iran hostage crisis back in 1980 that was really good
+user1: I dont think I've seen that one
+user2: Here is looks like the Washington Post is "fighting" the Times
+user1: I think any movie Steven Spielberg makes is good
+user2: Could be interesting. Meryl Streep is a pretty good actress as well.
+user2: Yes, he has quite the track record!
+user1: I wonder if he has anymore movies coming out soon
+user2: Hmmm, Scene 3 kinda spoils the movie, hahahaha
+user2: They could've warned us
+user1: Yeah, well atleast we don
+user1: t have to watch it now 
+user2: Hahahahahaha, true
+user2: Looks like Read Player One is a 2018 Spielberg film
+user2: Ready Player One, sorry. Not sure what it is about
+
+conversation:
+user1: Hi!
+user2: Hi
+user1: I think we're talkin about The Post
+user1: have you seen it?
+user2: Amazing movie 
+user2: did you?
+user1: See, I think it was boring Oscar bait. Spielberg at his dullest
+user1: It was like he rolled out of bed and made the movie that afternoon
+user1: With his friends and called it a day
+user2: The story is slow but the point was great
+user1: Seems like the critics liked it
+user1: "has all the makings of an awards season hit, but is too calculated to reflect today's climate"
+user1: I agree with that critic
+user2: Meryl Streep and Tom Hanks were amazing 
+user1: What did you think about the scene where Daniel Ellsberg is in combat or something, and then talks about the Vietnam war later
+user2: and the rating was pretty good R.T 88% 
+user1: I think it's the opening
+user1: And then the documents are leaked
+user2: that was one of the best drama part in the movie
+user1: lol
+user1: But yeah I thought the history was cool
+user1: I didn't know much about that situation before
+user1: And I liked how they handled the president talking on the phone
+user2: yeah we learn something new
+user1: Got another scene for ya
+user2: politics vs history
+user2: ok
+user1: Really intense moment where Bagdikian tracks down Ellsberg as the source of the leak
+user1: That's when the Post reporters are looking through the documents
+user1: Also the owner of the Post played by Meryl Streep has a lot riding on the situation
+user2: the Spielberg did drama tension perfect
+user1: But she makes the right decision. I was left wondering how true to history that was
+user1: Her character arc
+user1: "I need to stand up for myself" etc
+user1: And all the women admiring her on the stairs....
+user2: yeah,she was stunning real role model
+user1: But was she?
+user1: Or did the movie just want to go for that
+user2: based on foundation of the story she was
+user2: but you know
+user2: hero is always IN 
+user2: So Hollywood did his part 
+user1: The Post didn't win any Oscars did it
+user1: I wonder if Spielberg has one of the member's children kidnapped and that's why it was nominated for best picture
+user2: no
+user1: Now that's a movie
+
+conversation:
+user2: Hi there!
+user2: What's new?
+user1: hey there hi
+user1: so have  you seen  this movie?
+user2: What movie is it?
+user2: You have to tell me all about it!
+user1: the post
+user1: okay,it stars meryll strep and tom  hanks
+user2: What's it about?
+user2: Wow, good cast!
+user1: its  a 2017 political thriller done by steven  Spielberg 
+user2: Ohhh I love him
+user2: How does it compare to his other movies?
+user1: written by liz hannah and josh  singer
+user2: It has good reviews?
+user2: I don't know those writers
+user1: it has really good review on all  citric sites 
+user1: me niether tbh
+user1: i think brian singer did the x men  movies 
+user2: What's its rotten tomatoes score?
+user1: so basicly this movie is about a  true event from  the  1970s
+user1: 88%
+user2: what true event?
+user2: wow, 88%! amazing
+user1: so the cia had leaked classified documents wich surficed in the washington post,pretty interesting
+user2: they leaked them intentionaly?
+user1: yeah but the dark knight had a 96 % percent and people still bashed that  movie  so idk tbh i will have too see this the  previews  did look  relly good
+user1: yes they did 
+user2: Why would they do that?
+user1: to expose  shady military  events and  goverment,that dated back too the  Truman administration 
+user1: by  a gentalman named daniel eisenburg
+user2: What kind of shady stuff?
+user2: Like UFOs, area 51?
+user1: about military contacts that allow the government to test weapons made by the rand corperation
+user1: illegally it appears 
+
+conversation:
+user1: Hi!
+user2: Hello!
+user1: What's the movie you read about?
+user2: The Post is such an interesting movie!
+user2: The Post
+user1: What's it about?
+user2: It'a a historical drama about the attempts of journalist to publish the Pentagon Papers.
+user2: Which are the documents detailing US involvement in the Vietnam War
+user2: Are you interested in historical movies?
+user1: Not really
+user1: Anyone famous in it?
+user2: Lots of people.
+user1: such as?
+user2: There's Meryl Streep
+user2: Tom Hanks
+user2: Sarah Paulson
+user1: when did it come out?
+user2: And it was directed and produced by Steven Spielberg
+user2: It came out on 2017
+user1: what's it rated?
+user2: I don
+user2: 't know
+user2: You mean like critics ratings?
+user2: Sorry
+user2: It has fantastic ratings
+user1: i meant like R/PG, etc. but yeah, critics ratings are good to know too
+user1: do you know specific ratings or just that they are fantastic?
+user2: I thought that was you meant at first. That I don't know. But I do know that it has an 88% on Rotten Tomatoes
+user2: And Cinemascore gave it an A
+user1: that's pretty good! does it have any thriller/suspense elements?
+user2: Yes it does. 
+user2: It's fast paced thriller
+user1: oh, okay cool
+user1: does it push any political agendas or is it relatively unbiased?
+user2: I think it's faithful to what really happened
+user1: so you said it's a drama about a journalist trying to publish the pentagon papers. is the setting about that time or later?
+user2: Yes. It's in the early 70's
+user2: And it follows the journalist as they try to publish the papers and all the problems they have to face
+user2: Great talking to you
+user2: Bye
+user1: cool. i probably won't end up watching it just because I don't like historical movies, but it was good to talk to you too
+
+conversation:
+user2: ji
+user2: hi
+user1: I have not seen this movie, have you?
+user2: i haven't either
+user1: Some pretty popular actors
+user2: what do you think about the cast?
+user2: yes, i agree
+user1: meryl streep and tom hanks pretty good.  i dont know the others
+user2: I love Tom Hanks
+user1: fairly new movie too but i have never even heard of it
+user1: tom hanks is amazing actor
+user2: don't really like meryl though
+user2: i know! I haven't heard about it either
+user2: i don
+user2: i don't even remember seeing a trailer and i'm a movie person. i watch movies all the time
+user1: not a big fan of meryl either.
+user2: do you care about ratings
+user1: i do not recall a trailer either- and you'd think a movie with Tom hanks would be pretty popular
+user1: ratings are slightly average on this movie
+user1: maybe this movie didn't play everywhere or something
+user2: ratings look  good. i usually check rotten tomatoes before watching a movie
+user2: So it's based on true events
+user2: do you like historical, political movies?
+user1: rotten tomatoes is very harsh so typically if that has a good score,then it's legit
+user1: it depends- sometimes they bore me :( 
+user1: like the abraham lincoln movie was boring, but things like 9/11 movie (can't think of the actual name) it kept my interest
+user2: this movie is about journalist who tries to publish the pentagon papers
+user1: I think there was a bin laden movie too or something but those kinds keep me interested
+user1: well that sounds fairly interesting
+user2: I like movies like deep water horizon or something like that
+user1: more of a story line then just a bio so that would be kind of good for me i think
+user2: and then i google the actual events lol
+user1: lol! sometimes i do too
+user2: steven spielberg makes good movies 
+user1: indeed. which is another surprise since we didn't see trailer
+user1: in fact i wonder if this is on dvd now or not
+user2: i'm really interested in watching it now. will watch a trailer on youtube later
+user1: yes, me too!  
+user1: you have a great day!
+user2: it was good to talk to you
+
+conversation:
+user1: Hello
+user2: hello
+user2: Did you see the movie "the post"
+user1: No I have not seen it yet
+user1: Meryl Streep is in this movie I love her
+user2: It's about the publishing of the pentagon papers by the washington post in the 1970's
+user1: It came out recently in 2017. 
+user2: Yeah and Tom Hanks is also in it
+user1: I love tom Hanks it looksl ike he played Ben Bradlee
+user2: he does
+user1: I think one of the stakes place in Vietnam
+user1: one of the scenes takes place in Vietnam
+user2: there could be one, but I think i mainly occurs in america
+user1: They had a good director in Steven Speilberg
+user2: Yeah, with all the talent in this it's probably worth a look
+user1: I think it is classified as a historical drama and it takes a lot to make them entertaining
+user2: Definitely, they can get complicated and hard to follow.
+user2: Though I like Bridge of Spies
+user1: The Post seems to have gotten 88% on Rotten Tomatoes which is great.
+user2: I often find myself disagreeing with Rotten Tomatoes. 
+user2: They're worth factoring in
+user1: Oh well it has an A on CinemaScore
+user2: I don't use them as much as I should. 
+user2: In the end you just have to see it or not see it
+user1: I wonder what the whole deal is with the leak in the movie
+user2: That's the complicated part
+user2: vietnam was complicated
+user1: Yes it seem to be that way
+user1: I think It must have been interesting
+user2: sure, but also tiring
+user2: like wars today
+user1: Yes, I think all wars are scams
+user2: the guy who leaked the U.S. government's info must have thought that too
+
+conversation:
+user2: Hello I chose the post as a movie to talk about in this conversation.
+user1: Sounds great! What movie?
+user2: “The Post” 
+user1: Okay, what is it about?
+user2: It is a historical/political movie that displays the story of the first female publishers of an American news paper 
+user1: Is it a recent release?
+user2: Yes, it was released 2017
+user1: Did it get good reviews?
+user2: Yes
+user2: It did get 88% at rotten tomatoes 
+user1: That's pretty good. Is there a love story involved?
+user2: And cinma score of “A”
+user2: No I don’t think so
+user2: It takes palce
+user2: It takes place at 1966
+user1: So the main characters are the first female publishers? Do they face problems because of their gender?
+user2: I’m not sure about that but it  shows the Washington post attempts to publish the Pentagon documents in the Vitinam war
+user1: Do they succeed?
+user2: They leak the documents to the Newyork times
+user1: Sounds like an exciting movie. What is it rated?
+user2: Average rating is 7.9/10
+user2: I definitely think it is agreat movie 
+user1: Is it PG-13?
+user2: I don’t know
+user1: You would recommend this movie?
+user2: Yes I think it worth watching 
+user2: First you have the cast 
+user2: Second you have agreat story
+user1: Who stars in the movie?
+user2: Third the post has a good rtaing 
+user2: Meryl Streep
+user2: Tom Hanks
+user2: Sarah Pulson
+user2: Bob Odenkirk
+user1: Did it win any awards?
+user2: I’m not sure
+user1: Do you know if it has been released on DVD yet?
+user2: I dont have any idea about that
+user1: It seems like a good movie, both interesting and educational. Do you know if its based on a true story?
+user2: From what I know it is a historical movie but I dont know if it is a complete true story
+user1: It's probably close. Well, thank you for telling me about the movie! I'm more interested in seeing it now.
+
+conversation:
+user2: Hi how are you.  This movie looks like it could be very interesting.
+user1: This appears to be an interesting movie and a great historical drama!
+user2: Based on the rating it looks like the critics and general population enjoyed it.
+user1: It's great as it appeals to the current situations that are going in the media today
+user2: I'm sure there are lots of difficult decisions to make running a national paper or media outlet like The Post.
+user1: I bet! do you think this movie had a fair rating?
+user2: It looks like it.  Looks like they sampled different groups and they all seems to be around the same average.
+user1: Do you usually like movies that are political thrillers? I tend to just watch thrillers but this has a unique storyline
+user2: I usually like movies with lots of action so this would be kind of a change of pace for me but worth checking out.
+user1: Do you think this movie will win an award? 
+user2: I think so, the cast looks really good so along with the story they'd be tough be beat.
+user1: What do you think of the key scene they decided to give us?
+user2: It sounds like that is one of the top scenes in the movie.  Not sure I could of done something like that even if it was the right thing to do.  Would you be able to do that?
+user1: I'm with you! It was probably a difficult decision for him to make.It's pretty amazing the guts things like this take, not only following the troops and documenting but then releasing those reports about the war conflict.
+user2: I'm curious how they laid that out in the move and how they addressed the war scenes and how much of the movie that portion makes up.  It would help the action junkie in me....
+user1: I'm sure Spielberg was in depth with those scenes.Spielberg is a great director and definitely can be both action packed and deliberate with his intent to tell a great story. I have never watched this movie so know I am interested in catching it!
+user2: Yeah, reading this help put what I've send into perspective.  I wonder what was going through the mind of The Post publisher being the first female and to make such a decision knowing that it wouldn't likely be supported by the government?
+user1: This story really screams current "wiki-leaks" style drama! The post had a huge decision to make when it came to publishing these confidential reports. She certainly had a huge responsibility on her back.
+user1: While she chose to run the story, I 'm sure she was thinking---what in the world is going to happen after this goes to press??
+user2: I curious how much of the story the film reflects?  Does it go up to the release or does it show what happens after?
+user2: I hope they show the fall out, positive and negative, from the decision.
+user1: i'm not sure about that, but I did take note that in the critical responses they said about breaking the chain and bending toward justice....so maybe the outcome is positive
+user1: AHHHHH! The White House did retaliate!
+user1: AND the First Amendment won out 6-3 
+user2: I guess I forgot how long he Vietnam War went on for.  Its appropriate I guess seeing as how we've been at war with terror for sometime now.  I guess you take some tings for granted.
+user1: For sure!
+user1: I'm also pretty excited to see how this all ties into Nixon and Watergate! 
+user2: I'd love to see what dirt is out there on this war that the people are not aware of.
+user2: Agreed, I love to see how this plays into Watergate.  Too bad, it couldn't be a series of movies that continues until present time.
+user1: I wonder if they will go into the details of what the security guard finds at the Watergate complex.
+user2: The more I read this I wonder how long this movie is?  It's got to be like 2:20?  I start to lose attention after 2 hours so I hope it kind of moves fast.
+user1: I'm sure that this is one of Spielbergs longer movies as well. All in all this would be a great movie to watch if you had the time and the patience!
+user2: Yeah, finding time may be the hardest part.  From what I read this move should be really enjoyable to watch.  I might have to check it out.
+user1: I think we have completed our task! 
+user2: Sounds good.  Hope you have a great day.
+
+conversation:
+user1: HI
+user2: This movie is a Steven Spielberg’s directed film. Given that he typically directs wonderful films, I would highly recommend. 
+
+conversation:
+user2: Hi, let's talk about the movie "The Post"!
+user1: Who stars in the film?
+user2: Meryl Streep, Tom Hanks, Sarah Paulson, bob Odenkirk, Tracy Letts
+user2: A lot of big names
+user1: All star casr wht is the plot something about social media?
+user2: It's a historical political thriller movie about reporters at the Washington Post in the 1970s
+user2: They try to publish secret documents about the US's involvement in the Vietname War
+user2: and Meryl Streep plays the first female newspaper publisher in the US
+user1: Does this have anything to do with water gate?
+user2: I think so, tangentially, since Nixon was president then
+user2: but the primary focus was about the Pentagon Papers
+user2: great historical drama 
+user1: What are the pentagon papers?
+user2: Do you like that kind of movie?
+user2: They were secret documents from the US government about the Vietnam War
+user1: Yes i believe i would enjoy this film.
+user2: and these reporters were trying to get them released
+user1: Was any cast member nominated for an award for their role?
+user2: Not sure
+user2: but it did get 88% on Rotten Tomatoes
+user2: so I imagine it's really good
+user1: Have you seen the film?
+user2: No, but I'd like to
+user1: i will to now
+user2: oh nice! :) 
+user2: so I heard there's this scene where a state department analyst documents the US military's progress in Vietnam
+user2: but becomes disillusioned and leaks some secret papers about the war to the New York Times
+user1: That sounds like a vital scene in the movie.
+user2: later the Washington Post's assistant editor figures out that ellsberg was leaking the papers
+user2: and he gets them too
+user2: and there's this conflict where the people in the washington post have to decide whether they want to publish this bombshell
+user1: Sounds strangely like the times we live in today
+user2: Yeah, some of the reviews definitely compared it to today's political climate
+user2: Do you like these kinds of movies with political themes?
+user1: How many more turns do we have ? 
+user2: I think this is the last one
+user1: Yes i do enjoy them
+user2: awesome, I'd love to watch it too!
+user2: anyways so the Post decides to publish the papers
+user2: and the white house presses charges, as they expected
+user2: so people from the washington post and the new york times have to argue their case in the supreme court
+user1: I cant wait to watch the movie
+user1: Do you like these kinds of movies
+user2: yeahh
+user2: this last scene sounds really intense
+user2: cuz you asked if it had to do with watergate?
+user1: Would you wacth at ome or movies
+user1: Yes watergate
+user2: and apparently it ends with a security guard discovering a break in at Watergate
+user1: Do you know about watergate?
+
+conversation:
+user2: Hi.
+user1: Hello, you should watch the Post. It's a thriller starring Meryl Streep.
+user2: Really?, tell me more.
+user2: What's the plot?
+user1: It's about the Washington Post and the decision to publish the Pentagon Papers. It really does a good job of showing how decisions which look right through the lens of history were really hard to make in the moment.
+user2: Oh, really?, sounds fascinating.
+user2: Who directed it?
+user1: It was directed by Stephen Spielberg. It has Tom Hanks, sarah Paulson, and Bob Odenkirk in it as well.
+user2: Oh, that sounds great, who did the score for the movie?
+user1: I'm not sure about that, but it does have an 88 percent score on Rotten Tomatoes and an "A" from Cinemascore.
+user2: That looks great.
+user2: Do you agree with that rating?
+user1: I liked when Meryl Streep, as Katharine Graham, made the call to publish the papers. It was riveting.
+user1: Do you like to watch historical dramas?
+user2: Yeah,how was Tom Hanks in this?
+user1: Tom Hanks played Washington Post editor Ben Bradlee. He was excellent.
+user2: And how was Meryl Streep?
+user1: She played Washington Post publisher Katharine Graham. She nailed the performance.
+user1: Bob Odenkirk was also very good as Ben Bagdikian.
+user2: When was this movie released?
+user1: It was released in 2017. Ben Bagdikian, Odenkir's character, is riveting when he's tracking down the source of the original leak of the papers to the New York Times. One of the best parts of the movie.
+user2: Who wrote the script?
+user1: It was written by Liz Hannah and Josh Singer. They really did a good job of showing the relationship between Graham and McNamara. They were friends, and Graham publishing the papers wasn't good for McNamara's career. A really important part of the movie.
+user2: Who did the music?
+user1: I don't know who did the music, but Streep did a really good job with Graham's struggle with a decision that could have caused her paper to go out of business.
+user2: What's your overall opinion on the movie?
+user1: I think it's a vital depiction of an important fight to defend the fundamental tenets of the Constitution.
+user1: The scenes depicting the White House retaliating against the Post and the New York Times were harrowing.
+user2: How strongly would you recommend this movie?
+user1: Very strongly. How could I not? It's directed by Stephen Spielberg, and stars luminaries like Meryl Streep and Tom Hanks.
+user2: Ok, I'l check it out.
+user2: Any final thoughts on the movie?
+user1: It's a historical drama, but watching it at times you'd think it's an action movie. It'll have you on the edge of your seat.
+
+conversation:
+user1: hello
+user2: Hi there
+user2: Have you seen The Post?
+user1: No i have not seen it yet how about you ?
+user2: Yes I have.  It's a pretty good movie.  It stars Meryl Streep and Tom Hanks.
+user1: Oh nice, whats the movie about ? 
+user2: It's a historical drama set in 1970.  It the true story of how journalists at the Washington Post attempted to publish the Pentagon Papers.
+user1: Sounds like an interesting movie i might have to watch it soon 
+user2: They were classified papers about the 30 years the U.S. was involved in Vietnam.
+user1: What were the ratings like ? 
+user2: It has a cinemaScore of A.  
+user2: Metacritic gave it 83 out of 100. and Rotten Tomatoes 7.9/10
+user1: Oh thats good that it got such good ratings .  You don's see many movies now days getting those type of ratings 
+user2: No you don't.  Especially not for a historical drama.
+user1: What was your favorite scene from the movie ?
+user2: My favorite scene was when Ellsberg gets fed up, photo copies the papers, and leaks them to the New York Times.
+user2: It also has Sarah Paulson, Bob Odenkirk, and Tracy Letts.  It's pretty star packed.
+user1: Oh wow so many big names in this movie , i cant believe that i haven's seen it or heard of it 
+user1: Is Tom hanks one of the main actors in the movie ?
+user2: Yes, he stars as Ben Bradlee.  
+user1: Is the ending of the movie good ? Or is it a bad ending ? 
+user2: Well I won't give it all away.  But they do decide to run the story which more than likely will get the newspaper charged with contempt but if they win The Post would become a journalistic institution.
+user1: oh okay very interesting .. thanks for not ruining it for me !
+user2: It's very dramatic.  But it tells the true story of The Post and Pentagon papers.
+user1: Sounds like a very good movie , im going to search hulu and netflix later tonight to see if i can maybe watch it on one of those services 
+user2: No problem.  It even goes a little into the Watergate Scandal.
+user2: I forgot to mention that it's directed by Steven Spielberg.  
+user1: Oh okay that explains the ratings ,  hes such a good director 
+user1: So many good movies from him
+user2: Yes he's awesome.  It was written by Liz Hannah and Josh Singer.  You can't go wrong with Josh Singer.
+
+conversation:
+user1: Have you seen this moive?
+user1: Hello?
+user2: I have not watched this movie. I'm na big Meryl Streep fan, so I am intrigued.
+
+conversation:
+user1: hello?
+user2: Hi there!
+user1: how are you now? what are you doing?
+user2: Fine, thank you. I just reading about the movie The Post. Have you seen it?
+user1: nope not. whats the title of the movie?
+user2: The Post with Meryl Streep and Tom Hanks.
+user1: have you watch that movie?
+user2: No, I haven't seen it. It sounds like a good movie. I was directed by Steven Spielberg which is usually a good thing.
+user2: It's a political thriller about the first female publisher of a major American newspaper.
+user1: yeah me too im interested about that movie you talking about. 
+user1: im gonna watch it later im really interested about that. did you read about the movie trailer?
+user1: what is your idea to convince me to watch that movie?
+user2: I have read a description of the movie and it sounds very intriguing. It starts back in 1966 so it will be a great period piece.
+user2: If you are interested in historical, political movies, it would be a good choice for you.
+user1: yeah it looks like cool. im interested about historical movie.
+user2: The Post is about the journalists attempts to publish the Pentagon Papers which are classified documents regarding the 30 year involvement of the US government in the Vietnam War. 
+user1: will you watch it later the post?
+user2: It has a 88% rating at Rotten Tomatoes.
+user2: Yes, after learning more about it, I am definitely interested in watch the movie. I has very high rating from critics and the audience. 
+user1: woah thats 3 decades from now. its look like cool to know the story.
+user2: Yes, it never hurts to learn something about history. I know I enjoy it a lot.
+user1: yes we can learn more knowledge from the story specially when you really appriciate the movie.
+user2: Meryl Streep plays sort of a journalistic hero in the movie. She makes a very important decision that changes everything.
+user2: Yes, I totally agree with you. It does sound like it would be a thrilling movie as you watch how they make decisions and how it turns out.
+user1: yes is meryl only publishing about it?
+user1: yes im very interested about the story of the movie.
+user2: Sarah Paulson, Bob Odenkirk and Tracy Letts are also in it. Yes, eh makes the decision to publish the Pentagon Papers which could ruin her and the company.
+user1: so whats the reason why meryl publish it into public?
+user2: The White House retaliates and the other newspapers show solidarity by telling the story. The court rules in favor of the newspaper and guarantees their first amendment rights. A year later, the Watergate scandal broke. Pretty interesting.
+user1: is it sabotage?
+user1: okay ill watch it later it is very interesting historical movie .
+user2: No, not sabotage.
+user2: The government didn't want the information out so they tried to stop them.
+user2: Enjoy the movie! I think I will, too.
+user1: then?
+user1: okay ill watch it then enjoy it my friend :D
+
+conversation:
+user1: hi
+user1: what's the name of the movie?
+user2: Home Alone
+user1: i love all the parts
+user1: my favorite Christmas movie
+user2: Me too it's very funny
+user1: it's this the first part?
+user2: McAuley Caukin was a cute little kid
+user1: was being the word. 
+user1: what was your favorite part?
+user2: When he fought back with The two crooks Joe Pessi was hilarious
+user1: he's a great actor.
+user2: What was your favorite part
+
+conversation:
+user1: hello
+user2: hello, the movie is The Post by Spielberg
+user1: interstng
+user1: never wathced it
+user1: what is it about?
+user2: it has two Oscar winners in it - Meryl Streep and Tom Hanks, and is directed by an Oscar-winning director & producer, Steven Spielberg
+user1: that's a very good cast 
+user2: what it is about? it's a historical drama based on real-life events
+user1: definitely makes it more interesting 
+user1: what are these events?
+user1: are they based in the US?
+user2: yes, it's based in the US. it's about journalists getting some secret documents
+user1: so, it is kind of a spy movie?
+user2: it was the team of The Washington Post
+user1: oh ok
+user2: no, it's not  a spy movie. it's about government secrets, kind of
+user1: does it say during what years this happened?
+user2: yes, it gives this info. 1970s
+user1: is it about the watergate, or more about the cold war with russia?
+user2: the document talks a lot about history going in circles and that's why this movie is important. // nothing about Russia here - at least in the documents I'm given
+user1: I see
+user2: Vietnam is mentioned
+user1: it makes it interesting since it is based on real facts 
+user1: what about the rating is it any good?
+user2: yes, the rating is very promising (rotten tomatoes 88%, 7.9/10, metacritic score 83/100 )
+user2: I haven't seen the movie yet, but to be honest that's the first Spielberg movie in years that I've got a desire to watch
+user1: that's a good rating considering that rotten tomatoes rarely gives a good rating
+user2: based on the descriptions I see in the docs I'm given
+user1: haha
+user2: yes, that's a good rating
+user1: yeah, you telling me that makes it more interesgting
+user2: Sarah Paulson is there too. do you like her?
+user1: I do not know her
+user1: but tom hanks I like
+user1: so just because of him I guess I will watch it
+user2: I'm not allowed to share the info I know outside the document, so apparently I can't provide info about her to you... yes, tom hanks is fun
+user1: ok thanks
+user1: bye
+user2: yes, Tom Hanks also was one of the reasons I decided to watch the movie.
+user1: yeah me too
+user2: bye, but have we got 15 exchanges already?
+user1: different that the rest
+user1: i think so
+user1: finish the conversation button apperared
+user2: oh, I see. ok then. have fun watching the movie! (make sure you do your MTurk work quota for the day first though :) ) I'll watch the movie on Sunday probably.
+
+conversation:
+user1: Hi, I love thrillers
+user2: me too ! have You seen any good ones recently ?
+user1: I am not sure about political thrillers though
+user2: with decent acting, I don't mind :)
+user1: Yeah this one has great rating
+user2: what's the name of the movie ?
+user1: 7.9/10 is not bad. The post
+user2: ahh the Post ! ;) have You seen it ?
+user1: No
+user1: Have you?
+user2: no, I'm not sure if I want to. Who is in it ?
+user1: I don't know any of the actors either except Tom Hanks
+user2: oh, I do like Mr. Hanks !  maybe it's going to be good !
+user1: The details of the movie are on the left. Are they not available to you?
+user2: no, those are just for You
+user2: I thought there was somebody else famous playing in that movie...
+user1: I think they are all famous. 
+user2: really ? the cast is that good ?
+user1: Meryl Streep, Sarah Paulson
+user2: what is the movie about ?
+user1: It is a Historical Political thriller. Let me read abit to see.
+user2: Meryl and Tom... wow... that has to be good... ;)
+user2: sure, take Your time :)
+user2: so... what's interesting about it ?
+user1: I think it is about a journalist who chose to run a story
+user1: To be honest it doesn't sound like my cup of tea hahaha
+user2: but Meryl and Tom man... :)  that I have to see... they had to spend a fortune to pay them off :)
+user1: But it could be surprisingly  interesting
+user2: I'm sure they'll make it interesting. I wonder if it was nominated for Oscar ?
+user1: I don't see where the thrill is in this movie
+user2: I think it's the fact they are going against the US government ;)
+user1: Yeah and their company might get sued
+user2: Sounds interesting to me ! :) I'm looking forward to watch this movie, thx !
+user1: Cool! I hope you enjoy it.
+user2: It was nice talking to You
+
+conversation:
+user1: I really enjoyed this movie.... I think Spielberg does an excellent job in his more serious films. And I love Tom Hanks as the lead actor... how did you feel about the film?
+user2: I also liked the movie as well, meryl streep is a really good actress
+user2: How do you feel about Katherine Graham and her being the first female publisher for a major newspaper?
+user1: I think it was a good subject for the film, and I agree with you that Streep captured the role very well. It's always difficult to balance historical accuracy and an entertaining plot, but I think the film did that well. It definitely gave me a lot of information about a subject I wasn't too well-versed in
+user2: I agree with your point as well. It was during the early 1970's so it was definitely controversial.   
+user1: Did you like Bob Odenkirk in the supporting role? I feel like his career has taken off in recent years. \
+user2: I did like his supporting role but I feel as if the rotten tomato score should have been better than an 88, do you agree 
+user1: Yeah, though I do know it's very hard to get a very high score on there. Ideally, it would have been higher. But I know some movies that I felt have been very good received significantly lower scores. I'm curious as to how well it did commercially. 
+user2: I as well, the critical responses were good with one person stating "the post passes the trickiest test of historical drama" and i definitely agree
+user1: I liked the cinematography as well... overall I just thought it was a great film
+user1: The scene with Ellsberg going along with the troops was also very striking... I thought it set the tone for the movie, and captured a lot of the controversy and uncertainty surrounding the war
+user2: I as well, I like how the movie revealed classified american documents about the Vietnam War
+user1: What did you think about the scene with Ellsberg leaking the documents to the New York Times?
+user2: I liked it, it showed me how cut throat the world of the press is. How did you feel when he stated that the war was hopeless? 
+user1: I think it captured what a lot of Americans at the time were feeling, and it was a good way to sort of humanize the characters.
+user2: I agree, I also agreed with his decisions to photocopy and release the truth to the press
+user1: So the other scene with him trying to track down the leak was very intense... I thought it added a lot of excitement to the film
+user2: I agree, when the team of post reporters sorted through all of the piles of paper work searching for headline stories it showed great teamwork
+user1: What did you think about Graham's decision to run the story when facing legal issues in doing so?
+user2: I agree with Graham's decision because she could potential make history if she was to win in court if legal issues arose. 
+user1: That's a good point
+user1: Again, something that adds a lot of depth to the film
+user2: How do you feel about the lawyers for the post advising against publishing the material?
+user1: I think it helped hype up the dilemma that was occurring as to whether to release the information or not
+user1: The last scene with the white house retaliating was a dramatic scene... it was very cool to see other newspapers publishing in solidarity with the Times. 
+user1: And watching how that ties into Watergate was really interesting
+user2: Do you think that the White house retaliating was a bad thing?
+user1: I think they were trying to cover their own best interests, but going after the press isn't something I agreed with. 
+user1: The movie made you root for Graham, and I think the outcome was very pleasing from a viewer's perspective
+user2: I agree because as Americans, we have the right to the first amendment. I was definitely rooting for graham as well. I am glad that they won in court 6-3 
+user1: Would you recommend this movie to family/friends?
+user2: I would definitely recommend this movie to family and friends, it was exciting
+user2: Would you recommend?
+user1: I believe I would, it's a very interesting movie and had a lot of excitement as well
+user2: Great!
+
+conversation:
+user1: Hello
+user2: Hey there!
+user1: Have you see this movie?
+user2: I have
+user2: You?
+user1: Yes as well. I really enjoyed it
+user1: I thought the casting was pretty much spot on
+user2: I did too, but I think it was a little too slow paced
+user2: I mean, you can’t get better than Hanks and Streep
+user1: Well they had to build up the story line. Alot happened in not that long (time wise in real life)
+user2: Yeah yeah, I know
+user2: But still, the general consumer would prefer a fast paced emotional movie
+user1: True. I wonder if the audience of this was somewhat self selecting. I can't image many people just randomly picking it at the theatre
+user2: Total oacar bait in my opinions 
+user2: Opinion
+user2: I’d say that was the real reason for making it so, not so much for the income
+user1: Thats certainly possible. 
+user2: Definetely
+user1: I think its terrible that they make movies just for that reason
+user2: So, would you watch it again?
+user2: I mean, it was still a good movie, so I don’t care what their motive was
+user1: i probably would, yes. You?
+user1: I think there are subtle things that I missed the first time
+user2: I don’t really know, I think I alteady got the whole experience from watching it the first time
+user2: Really? Do you have an example for this subtle things?
+user2: Or is it just your intuition?
+user1: Interesting. I think historical films like this are about the only kind that I could consider watching a second time.
+user2: Okay, I see
+user1: I think its more my intution. I really felt like, at times, the subtle interpersonal communications were glossed over
+user2: Ha. I wouldn’t have noticed that they were “glossed over”.
+user2: Still, thanks for sharing your views
+user1: I tend to be a detail person so I like to dig around
+user2: So, dis you aee the reviews?
+user1: You are very welcome, you too
+
+conversation:
+user2: Hello!
+user1: Hello
+user1: Today we shall be discusing The Post.
+user1: Have you heard of it.
+user2: Yes! I have not seen it though.
+user2: Can you tell me a bit about it.
+user1: It is about the Washington Post.
+user2: The newspaper right?
+user1: Tom Hanks character works for the Washingoton Post, and they attempt to publish papers about the US Governments 30 year involvement in the Vietnam War.
+user1: Yes the newspaper.
+user2: Interesting. I love Tom Hanks, one of my favorite actors.
+user1: Yes I like him too.  Meryl Streep is in it as well.
+user2: How did the movie review?
+user2: I love her too, too acting titans.
+user2: *two
+user1: Basically in 1966 a state military anaylst accompanies US troops in combat documenting the progress.
+user1: It got 88% on rotten tomatoes and 83/100 on metacritic.
+user2: Good reviews
+user2: I heard the director is pretty legendary too.
+user1: Yes, it's directed by Steven Spielberg
+user2: Man this movie sounds amazing just on the talent alone.
+user1: The man who accompanied them leaks the classified documents to reporters at the New York Times.
+user2: Journalism is pretty intense when it deals with such high level stuff.
+user2: Who else is in the movie?
+user1: Yeah.  Washington Post assistant editor (played by Bob Odenkirk), tracks down the man as the source for the leak.
+user2: Another actor I really like.\
+user1: The lawyers for the Post advise against publishing it, but they go ahead with it anyhow.
+user2: They took a risk it seems.
+user2: Does the movie center more around Streep, Hanks, or both?
+user1: I would say more so Hanks
+user1: But the government (being the government) retaliates in court.
+user2: I see. 
+user1: The Washington Post and the New York Times appear together before the supreme court to state their first amendment rights. But they end up losing 6-3
+user2: Spielberg and Hanks has always been a winning combination.
+user2: You sold me on the movie. I will watch it. Thanks!
+user1: Absolutely. Was fun chatting have a nice day!
+
+conversation:
+user2: Hi
+user2: Thanks for joining me!
+user1: Hi want to chat with you about the movie called The Post.
+user1: Are you familiar with the movie?
+user1: Hello are you there?
+
+conversation:
+user1: hi
+user2: hello
+user1: how are you
+user2: good
+user1: thats nice
+user2: yes how about you
+user1: doing well
+user2: ok 
+user1: lets talk the post
+user2: ok what kind of movie is it
+user1: it is a history movie
+user2: oh
+user1: don't like those?
+user2: yeah they put me to sleep
+user1: wow lol
+user2: who made it
+user1: it was spielberg
+user2: ok i like him
+user1: it got pretty good reviews
+user2: that's nice
+user1: yep a 83
+user2: good i guess
+user1: yep i think it is a good one
+user2: ok i might have to check it out
+user1: yes please do that 
+user2: ok good
+user1: go check it out
+user2: thanks
+user1: bye
+
+conversation:
+user1: hi
+user2: hello
+user1: hows your day going
+user2: pretty good and your self
+user1: good what movie are we talking about?
+user2: the post
+user1: sounds good 
+user2: it is directed by the big s
+user1: spielberg?
+user2: yes the great
+user1: ok how was the reviews
+user2: it got a 83 on meticritic
+user1: that's pretty good
+user2: yep and it stared tow hanks
+user1: tom right?
+user2: yeah lol sorry
+user1: ok what else was in the movie
+user2: it was a politics movie
+user1: oh i really don't care for those
+user2: me either but this one is ok
+user1: ok what is the plot
+user2: it was about some news reporters
+user1: oh lol that does not sound
+user2: very good right
+user1: yeah i wish it could have a better plot
+user2: yeah it is based on real life
+user1: lol
+user2: i hope that maybe you check it out
+user1: ok thanks
+
+conversation:
+user2: Hello, how are you?
+user1: Hello!
+user1: Not bad, today we'll be discussing The Post.
+user2: Great! I've never heard of that movie. What's it about?
+user1: It is directed by Steven Spielberg, and starts Meryl Streep, and Tom Hangs.
+user1: It's a historical political thriller.
+user2: Oh wow, that's a really strong cast with a great director.
+user2: It must be pretty amazing
+user2: Oh I see, what is the conflict they are trying to resolve?
+user1: It's set in the early 70's and shows the true story of attempts by journalists at the Washington Post (where Tom Hanks character works), to publish Pentagon Papers, which discuss the 30 year involvement of the US government in the Vietnam war.
+user2: Wow that sounds pretty deep. Who is the bad guy?
+user1: It got fairly good scores on Rotten tomatoes and metacritic.
+user2: Cool, what scores did it receive?
+user1: 88% and 83/100
+user2: Very nice. Who is the main villain in the movie?
+user1: I don't think there is a main one.
+user2: That's odd. So just the government in general then?
+user1: It seems like that was pretty much.
+user2: I see. Does the movie have a lot of action?
+user1: There is a leak, about what happened, And the government tries to cover it up.
+user2: Ah ok. Does it have a happy ending?
+user1: Well that's debatable.
+user2: Is this based on a true story?
+user1: There's not much action, as it's mostly just story.
+user1: Yes based on a true story.
+user2: Well it still sounds great. I really like both Tom and Meryl. I don't think I've seen any movies of theirs that I didn't like
+user1: The white house eventually sues the Washington post.
+user2: I guess the washington post won?
+user1: Yup 6-3
+user2: That's pretty amazing. I didn't even know any of that happened.
+user2: Well, it's been a pleasure, I'll definitely check this movie out. Thanks for the information!
+
+conversation:
+user1: Hi there, have you heard about the movie The Post, is by Spielberg
+user2: No, I haven't. Tell me about it?
+user1: It has Meryl Strep and Tom Hanks in it, it's about the first female publisher of the Washington Post and they were going to publish the Pentagon papers
+user2: Oh that sounds interesting! is it a thriller?
+user1: Political thriller, Rotten Tomatoes  users gave it a 88% approval rating
+user2: I really like Meryl Streep and Tom Hanks. 88% seems unusually low for Those actors.
+user1: Maybe but critics said it was an impeccably acted film, you should see it.
+user2: I would like to, maybe I'll check to see if it's available streaming online. tell me more about the drama.
+user1: The Post was apparently trying to release papers detailing they 30 year involvement of the US government int he Vietnam War
+user2: Oh I like things that portray stories about the Vietnam War. In fact I am going to see Maya Lin Speak next month about her work designing the war memorial.
+user1: Yep, well  a military analyst, Ellsberg is in Vietnam during combat and documents the activities for the secretary of defense but when he realizes that the secretary believes the US is going to win the war, he is disappointed because he doesn't agree. Years later he photocopies classified reports and releases them.
+user2: It sounds like it was a decision made out of spite. What did he gain from those actions I wonder?
+user1: And by then he was working as a private contractor for a company named Rand. He leaked them to the NTY
+user2: That's a pretty prestigious paper. Did they run the story right away?
+user1: it was a difficult decision to make
+user2: The guy that leaked the story, was that played by Tom Hanks?
+user1: Nope, Tom Hanks is an assistant editor a the post, he tracks down Ellsberg as the source of the leak
+user2: Who plays Ellsberg?
+user1: sorry, bob odenkirk plays the editor, Hanks plays a guy named Ben Bradlee, don't know who plays ellsberg. The post was having a hard time deciding whether to publish or not, the nixon administration brought charges against them
+user2: Oh it sounds really involved, that whole scandal is so interesting. Don't you just love historical dramas?
+user1: Yes, the editor Katharine Graham knew that she had to decide whether to publish or not, if she did, she could be charged with contempt of the court and if she published, she would establish the washington post as a very importan journalistic institution
+user1: she was the heir of the newspaper so she considered it a family legacy
+user2: Gosh, that seems like history never changes. Government always trying to silence the press.
+user1: Exactly! The White House retaliated and ordered the post and the NYT to appear before the supreme court to pled their first amendment to publish the story
+user2: Good for them! 
+user1: the supreme court ruled 6-3 in favor of the newspapers, which vindicated Graham's decision.
+user2: now I really want to see it. It sounds really juicy, but it will be a little difficult because I feel like the situation will anger me.
+user1: But they won. Nixon god mad and barred The post from the White house
+user1: sorry, got mad
+user2: Typical, sounds like another president.
+user1: ha ha, critics said movie shows that "history repeats itself"
+
+conversation:
+user1: While the message of The Post is very important in this political landscape, I think Speilberg did it a disservice by making it so quickly. I thought the editing was off and they real downplayed the role the NYT had in the Pentagon Papers. 
+user2: I'd have to completely agree. For me, given our current climate, it feels a bit difficult to see this movie through some sort of unbiased lens given some of the parallels I'm sure we can all see.
+user1: Absolutely. It really felt like it was more about timing than painting a riveting portrait of the events. Even the sets felt a little off. 
+user2: It's unfortunate when a movie like this comes out, it feels like it's trying to touch a nerve with us, like it wants us to see how it relates to us in these times rather than resting its laurels of good story telling.
+user1: Absolutely. When you look at something like Good Night and Good Luck, that film was timely sure, but it really wanted to settle into its own rhythm and style. And it takes its time to become enriched in character and mood, which makes the political payoff feel earned.  
+user2: I completely get where you're coming from there, it didn't feel so much like something that was striking while the iron was hot, it had its own merit. That said, and feel free to disagree, it feels like for events that are so recent, it's hard to immerse yourself in a movie when certain lead stars are so famous. It's hard to not watch this movie and see Tom Hanks as any of his other roles rather than as Ben Bradlee
+user1: Absolutely. And Streep as well. The only person I thought that nailed their portrayal was Odenkirk. I would've been much more invested if Bagdikian was the main character. That was the only area of the film that I felt was a live wire of immediacy. 
+
+conversation:
+user1: Have you seen the Post? its a Steven Spielberg movie.
+user2: I have seen The Post!
+user1: I really like Meryl Streep as Katharine Graham. I thought she did a good job.
+user2: I agree! I enjoyed Tom Hanks and Bob Odenkirk as well.
+user1: I like most things that Odenkirk is in
+user2: It was very interesting to see him in a new dramatic role.
+user1: The pentagon papers, such a serious topic as well!
+user2: I watched All the President's Men around the same time as The Post and found them to be very similar.
+user1: I liked how they did a really good job of showing how decisions were made in the historical context
+user2: I thought I knew a lot about The Pentagon Papers before, but I never knew how intense it must have been for the journalists that discovered them.
+user1: the details around the actions of the state department at that time were really interesting too. 
+user2: It was interesting to see Robert McNamara humanized.
+user1: Ellsberg must have had nerves of style to divulge all of that classified information to the press
+user1: of steel not style
+user2: A lot of people would be surprised to learn that the documents dated all the way back to the Truman administration!
+user1: That is a really comprehensive amount of data, and many administrations
+user2: The United States were involved in Vietnam for a longer time than just the war.
+user1: when Ellsberg is found by the post editor as the leak, the movie really gets interesting. 
+user2: I can't believe that Nixon was willing to press criminal charges against newspapers!
+user1: yes, that and it hammered home how difficult a decision it was for the post to publish the information was.
+user1: they really had to think it through carefully
+user2: The fact that using the same source as the New York Times could have put them in contempt of court was an interesting development.
+user1: It totally could have destroyed the newspaper if things had happened a little bit differently
+user2: It would have destroyed not only the newspaper, but maybe the entire first amendment.
+user1: Their appearance before the supreme court is really what drives the movie in to its climax
+user2: It was relieving to see that other newspapers joined them in solidarity.
+user1: and also the supreme court ruling was pretty relieving as well...
+user2: Even though the Court vindicated them, Nixon still banned them from the White House.
+user1: I also like how they dovetailed it into the whole watergate incident
+user2: It was a great series of wins for the Washington Post, bad for Nixon.
+user1: imagine if that security guard had not discovered the break-in while it was in progress. might have totally changed history
+user2: I think that after the events of The Post, the Nixon administration would still be looked upon unfavorably.
+user1: probably. he would have been looked upon unfavorably just for banning the post from the whitehouse.
+user2: Banning the Post from the White House was perfectly legal, but made him look very bad after the Supreme Court decision.
+
+conversation:
+user2: Hey there!
+user1: Hi
+user2: How are you?
+user1: Good you?
+user2: Same
+user2: So, today we’re supposed to discuss The Post
+user2: Have you seen it?
+user1: The post?
+user2: Yeah, the movie
+user1: Have not seen it 
+user2: With Tom Hanks and Meryl Streep
+user2: Oh, okay
+user1: What's it about?
+user2: I have
+user2: It’s ablut the Washington Post during the Viernam War
+user1: Is it a love story?
+user2: If you’re not really a fan if this time period I wouldn’t recommend you see it
+user2: Not really, it’s more about personal success and independence 
+user1: So the Washington post during vietnam....the newspaper?
+user2: Exactky
+user2: The newspaper
+user1: We're they bias?
+user2: I’m sorry?
+user1: You did not understand t my question?
+user2: Not really. Could you explain what you meant or reformulate it?
+user1: Was the newspaper articles pro war or against war?
+user2: They weren’t really expressing their opinion about it. They were sharing government secrets during this war.
+user2: I know how this sounds, but the newspaper was in the right, not the government
+user1: Wow..sounds  interesting 
+user2: It is. Somewhat boring for some people, but still interesting.
+user2: Anything else you wanna know?
+user1: How were the newspapers right to leak confidential government info?
+user2: They were secrets to stop a losing war
+user1: We didn't lose
+user2: The newspaper wanted to stop the inevitable sooner than it would have to
+user2: The US lost the Vietnam War
+user1: But we didn't lose the Vietnam war
+user2: The last troops were called back in 74’
+user2: Yes, the communists won
+user1: Who did Streep play?
+user1: What was her role?
+user1: Who did Meryl Streep play in the movie?
+
+conversation:
+user2: Hi
+user2: i have one amazing movie to recommend 
+user1: What movie is that?
+user2: The Post
+user2: Steven Spielberg is the director
+user1: The movie with Tom hanks and Meryl Streep about the Washington POst, set in the 70's?
+user2: yes,you have watch it or read about it
+user1: I have read about it. It was about the Pentagon Papers involving the 30 tenure the US had in the Vietnam War.
+
+conversation:
+user1: Hi, what movie did you get?
+user2: the  post came out in 2017. a movie. would you like to know more about it, good sir?
+user1: Yes, tell me more!  What's it about?
+user2: It's a historical/political picture with actors
+user1: What actors are in it?
+user2: why, tom hanks, of course
+user2: and merly streep
+user2: also sarah paulson
+user1: Oh cool!  Anyone else famous?
+user2: bob odenkirk is in a role. I believe it is a male role. would you like to know the rt score? I have the info handy.
+user1: Yes, do tell!
+user2: it has a score of 88 percent on the rotten tomatoes 
+user1: Oh that's promising.  What were the reviews like?  Positive?
+user2: it it was described as "vital" by one single critic
+user1: Oh that's impressive.  So what is the movie about?  What historical time?
+user2: it was also desribed as different from all the president's men, which was a nother movie
+user2: I think it has somethng to do with vietnam
+user2: the state departement has some documents, it's a whole thing
+user1: Could you tell me about a scene?
+user2: uh, yeah, there's something about leaking documents and the nixon administration. You know. One of those types of films
+user2: it's a political thriller
+user2: I feel like I don't have your full attention
+user1: Sorry, I had to step away a moment.  Can you tell me another scene?
+user2: there is a scene in which classified documents are photocopied. thrilling stuff
+user2: there's a newspaper
+user2: also lightsaber battles
+user2: who cares, right?
+user1: Lightsaber battles?
+user2: that was a test, to see if you were paying attention. Really instead of lightsabers, it has tom hanks.
+user1: Why don't you stop being so snarky and tell me what actually happens in the movie.
+user2: I haven't seen it
+user1: You have a document that summarizes it.
+user1: Please tell me a key scene so I can decide if I want to watch it.
+user2: it's all really convoluted. it's about documents and somebody gives them to a newspaper. I already said that
+user1: Do you know when it came out?
+user2: if you want to see scenes of photocopied dcuments, then the movie is for you
+user2: 2017
+user2: It was directed by steven speilberg, a famous director and producer 
+user1: Okay.
+user2: later, jerkoff
+
+conversation:
+user2: hello
+user1: hello
+user1: how was the movie?
+user2: let me tell you about the movie "the post"
+user1: ok
+user2: It stars Meryl Streep, Tom Hanks, Tracy Letts and many others
+user1: What
+user1: What's the movie about?
+user2: it is an american historical and political movie
+user2: written by Liz Hannah
+user1: When did it come out?
+user2: It was released in 2017 actually
+user1: Oh. A new film. 
+user1: Who is the protagonist?
+user2: yeah directed by Steven Spielberg
+user1: Steven Spielberg is great. One of my faves
+user2: It depicts the true story of attempts made by journalists to publish some pentagon classified documents\
+user1: Oh. I am familiar with the story a bit
+user2: It looks more like a true story about all those wars then
+user2: Specifically The Vietnam War
+user1: Would you recommend others go watch it?
+user2: honestly I would do that 
+user2: maybe because i like historical movies
+user2: it has a quite good rating or review too
+user1: I like historical contents....that I have a really good flare of fiction to it
+user2: Well there isn't much of fiction in this but you will love it 
+user1: In terms of extra plotty I mean. There has to be some good twists to the narrative
+user2: it is about leaking of information which led to trying to track down the source of the leak, you know those kind of movies
+user2: sure it does have that
+user1: Yeah. ....I would envision so. 
+user1: What else is there to know about the film?
+user2: the white house eventually drags the media houses to court after they decided to publish the information
+user2: rotten tomatoes gave it a 88%
+user1: Oh that's a pretty good rating
+user2: cinemascore A
+user1: even better
+user2: Metacritic has a *3/100
+user2: while the average has 7.9/10
+user2: metacritic 83/100
+user1: Well based on the positive ratings across the board, I think I will check it out some time soon. 
+user2: alright dude 
+user2: have a good day 
+user2: and nice to talk today
+user1: alright you too;. enjoy your day
+user1: nice talking to you too.
+user1: take care
+
+conversation:
+user1: Hi
+user1: I love thrillers
+user2: I love thrillers also, ones that involve the government like this one I like especially. This movie also has a great cast of actors as well.
+user1: I don't think I have watched a political thriller though.
+user1: It also seems to be a political drama from the critical response.
+user2: This movie is reminiscent of a Tom Clancy book I read, the 1950's-1970's was a period in which a lot of chaos was going on within our government, it was a very crucial point in our government and country's history and this movie seems to have done a good job in portraying that time period and the struggles within accurately
+user1: It is a recent movie, 2017. I wonder if it's popular.
+user2: I haven't heard too many people talk about it, I don't think I've seen it in theaters either.
+user1: It is also based off of a true story.
+user2: I didn't notice that, it really makes the story stand out more when you know they're based off of actual events
+user1: I only know Tom Hanks from the actors.
+user2: Bob Odenkirk is a great actor, he played Saul in Breaking Bad if you're familiar with it, and he's a great actor for political and suit-and-tie roles like this one. Meryl Streep is also a great actress, she has many roles but not many im familiar with
+user1: It's got great ratings 7.9/10. Seems like it's worth watching.
+user2: I agree completely, it definitely seems as though this movie accurately depicts many things in that time period and helps us understand the history and reasoning behind it instead of displaying it for entertainment
+user1: Wow, they were going to publish classified documents about the Vietnam war.
+user1: That is very brave and a huge task to take on.
+user2: It definitely is, that's is a huge self sacrifice they were willing to accept and one that had serious consequences to go with it
+user1: I can imagine the suspense involved in the movie
+user2: I could imagine with so much on the line, the stakes are huge and the movie seemed to really bring attention to the motivation and drive they had to break the chain of dishonesty and misdirection in our government
+user1: Journalists have a tough job to do.
+user2: They do, especially after seeing how much negative pressure was put on them by the current Nixon administration to not post anything that could harm it's reputation. It really shows how much corruption was obviously present in those days;
+user1: Have you watched All the President's men
+user2: I have watched it, and I really preferred it to The Post, however, it was a great movie in it's own right and they both have multiple things that help them stand out as such
+user1: They liken the post to it. 
+user1: I can't imagine how challenging it was for them
+user2: The movie really does a great job of setting an example of how the right person in the right situation can bring about unprecedented change, like when Ellsberg overhears a contradictory message from the Secretary of Defense, he becomes disillusioned towards the government's position on the war. He waited years to do something about it and when he finally did, it paid off for sure
+user1: I will have to go watch it. Sounds super interesting.
+user2: It does sound great, the portrayal of these characters were done very well and you can really imagine the internalized struggles they're going through. That kind of stress definitely will take it's toll on you.
+user1: All for justice
+user2: Right, it sent the message that not everyone is complicit in these kinds of activities that affect the lives of millions of people.
+user1: Society needs brave people like these. 
+user1: They tried to break the cycle.
+user2: Do you think this movie sounds interesting enough to check out other movies within the genre that are around the same rating?
+
+conversation:
+user1: Hello!
+user2: Hi
+user2: Have you watched the movie "The Post"?
+user2: Are you still there?
+user2: Let's chat!
+user2: 5
+user2: 4
+user2: 3
+user2: 2
+user2: 1
+user2: 0
+user2: -
+
+conversation:
+user1: Hi!
+user2: Hi there. What did you think of The Post?
+user1: In my opinion its a great historical drama
+user2: I really like Meryl Streep, so that was a point in it's favor before even watching it.
+user1: That was my reason for liking it too. I watch most of her movies
+user2: I liked how it really takes you back to the time period too.
+user1: Spielberg is know for his story telling accuracy. I love all of his films
+user2: Yea he's got a really good way of telling a story and drawing the viewers in.
+user1: Agreed
+user2: It's funny how we can see immediately what has to be done because it's in the past, but the characters really have a hard time making the decisions in the movie.
+user2: That was pretty realistic
+user1: I saw an interview with Hanks where he said that the box was the star of the film. When the papers were brought in it took over
+user2: I can only imagine
+user2: It's got to be hard to do historical actions justice in a movie
+user1: i'm also old enough to recall the events that occured in the film. the actors did a great job bringing Vietnam to life.
+user2: For someone seeing it second hand it's a good reminder to never go that route again
+user1: If only! But it does make everyone aware of how decietful government can be
+user2: The disillusionment was pretty strong in the first part and I could relate to that after recent events
+user1: Meryl Streep makes Katherine Graham look great, strong, and brave with what she did
+user2: That hard decision to publish the story and make sure people knew about it was well done
+user2: You can really see the things she had to take into consideration
+user1: It was. She was one of a kind, especially during that era
+user2: And thank goodness for people like her!
+user1: She took a family business and make it an international publication. Yeah, we need more like her, especially today
+user1: I like the way they tied Nixon and Watergate in so smoothly too. 
+user2: There are some similar first amendment issues today so the film is quite relatable 
+user2: They really started something with the true events in here!
+user1: You're so right. I think these issues will always be with us. That
+user1: sorry. that's the purpose of a democracy. Voice of the people, etc
+user1: This movie was so timely, a time when the first amendment is being battered. Makes us all aware of our constitution
+user2: Unfortunately true. I wish we had fewer first amendment issues today!
+user2: But I'm glad for the reminder in the way of the movie
+user1: Yup. I agree completely. But thank goodness we have the constitution to back up us. Katherine Graham knew what she was doing! Loved the movie.
+
+conversation:
+user1: Hi! Have you got to see the new movie The Post yet?
+user2: Hello
+user1: It is a Steven Spielberg film. It is one of his best ones yet, in my opinion.
+user2: I have not seen the movie. What is it about?
+user2: If it is from Spielberg, I can imagine it is good. 
+user2: User 2, are you still there? I am interested in finding out about this movie. 
+user2: Can you tell me anything about the movie? I may want to see it. 
+user2: Like who are some of the main characters? 
+user1: This movie is a historical drama. 
+user1: It has Tom Hanks and Meryl Streep in it!
+user1: It is set in the 1970s and follows the attempts of journalists to publish the Pentagon papers.
+user2: That sounds interesting. They are both excellent actors. 
+user2: Is it based on a true story? 
+user1: It is based on a true story! Spielberg does a great job making the story flow and easy to follow.
+user1: It even gets a 7.9/10 rating on Rotten Tomatoes which says a lot!
+user2: How long is it?  Long movies tend to get boring. 
+user1: It is a bit on the long side because it covers so much information, but it is really fantastic!
+user2: Do you know what year it was made?
+user1: It was just released in 2017. 
+user1: It won several awards this awards season.
+user2: Oh so it's fairly new. 
+user2: I can't believe I've never heard of it. 
+user2: How many times have you seen it? 
+user1: Yes it is. I love historical movies so I find this one very interesting since it covers information about the Vietnam War.
+user1: I have watched it twice now.
+user2: What role does Streep play?
+user1: She plays Katharine Graham. She is the first female publisher of a major American newspaper.
+user2: Have you recommended it to any family or friends yet?
+user1: Yes, the second time I watched it I made my sister watch it with me. I also just finished telling my coworker how she should watch it.
+user1: She enjoys political dramas so it is right up her alley.
+user2: Thank you for taking the time to inform me about The Post. I think I have all the information I need to make a decision about watching it now. 
+user1: You are very welcome! I hope you enjoy this movie as much as I did.
+user2: I'm sure I will. Thank you again. Have a great day. Goodbye. 
+user1: Thank you! Have a great evening.
+user1: Good bye.
+user1: Thanks again!
+user1: Don't forget this movie is called The Post!
+
+conversation:
+user2: Hi how are you.  This movie looks like it could be very interesting.
+user1: This appears to be an interesting movie and a great historical drama!
+user2: Based on the rating it looks like the critics and general population enjoyed it.
+user1: It's great as it appeals to the current situations that are going in the media today
+user2: I'm sure there are lots of difficult decisions to make running a national paper or media outlet like The Post.
+user1: I bet! do you think this movie had a fair rating?
+user2: It looks like it.  Looks like they sampled different groups and they all seems to be around the same average.
+user1: Do you usually like movies that are political thrillers? I tend to just watch thrillers but this has a unique storyline
+user2: I usually like movies with lots of action so this would be kind of a change of pace for me but worth checking out.
+user1: Do you think this movie will win an award? 
+user2: I think so, the cast looks really good so along with the story they'd be tough be beat.
+user1: What do you think of the key scene they decided to give us?
+user2: It sounds like that is one of the top scenes in the movie.  Not sure I could of done something like that even if it was the right thing to do.  Would you be able to do that?
+user1: I'm with you! It was probably a difficult decision for him to make.It's pretty amazing the guts things like this take, not only following the troops and documenting but then releasing those reports about the war conflict.
+user2: I'm curious how they laid that out in the move and how they addressed the war scenes and how much of the movie that portion makes up.  It would help the action junkie in me....
+user1: I'm sure Spielberg was in depth with those scenes.Spielberg is a great director and definitely can be both action packed and deliberate with his intent to tell a great story. I have never watched this movie so know I am interested in catching it!
+user2: Yeah, reading this help put what I've send into perspective.  I wonder what was going through the mind of The Post publisher being the first female and to make such a decision knowing that it wouldn't likely be supported by the government?
+user1: This story really screams current "wiki-leaks" style drama! The post had a huge decision to make when it came to publishing these confidential reports. She certainly had a huge responsibility on her back.
+user1: While she chose to run the story, I 'm sure she was thinking---what in the world is going to happen after this goes to press??
+user2: I curious how much of the story the film reflects?  Does it go up to the release or does it show what happens after?
+user2: I hope they show the fall out, positive and negative, from the decision.
+user1: i'm not sure about that, but I did take note that in the critical responses they said about breaking the chain and bending toward justice....so maybe the outcome is positive
+user1: AHHHHH! The White House did retaliate!
+user1: AND the First Amendment won out 6-3 
+user2: I guess I forgot how long he Vietnam War went on for.  Its appropriate I guess seeing as how we've been at war with terror for sometime now.  I guess you take some tings for granted.
+user1: For sure!
+user1: I'm also pretty excited to see how this all ties into Nixon and Watergate! 
+user2: I'd love to see what dirt is out there on this war that the people are not aware of.
+user2: Agreed, I love to see how this plays into Watergate.  Too bad, it couldn't be a series of movies that continues until present time.
+user1: I wonder if they will go into the details of what the security guard finds at the Watergate complex.
+user2: The more I read this I wonder how long this movie is?  It's got to be like 2:20?  I start to lose attention after 2 hours so I hope it kind of moves fast.
+user1: I'm sure that this is one of Spielbergs longer movies as well. All in all this would be a great movie to watch if you had the time and the patience!
+user2: Yeah, finding time may be the hardest part.  From what I read this move should be really enjoyable to watch.  I might have to check it out.
+user1: I think we have completed our task! 
+user2: Sounds good.  Hope you have a great day.
+
+conversation:
+user2: Good morning
+user1: Hello good morning!
+user2: I have to admit, I have not actually seen 'The Post' yet
+user2: Have you?
+user1: No, I haven't, never even heard of it
+user1: I'm not much of a movie person lol
+user2: I heard good things about it, and the ratings seem pretty strong
+user1: Right on. So, what type of movie is it?
+user2: Says that it is a historical/political drama, based on events surrounding the release of classified government documents in the 1970s
+user2: The 'Pentagon Papers'
+user1: Oooooh, I'm not really into politics, but that does sound interesting.
+user2: Well, it was kind of a big deal :)
+user2: It showed that the government had been lying to the people about Vietnam
+user1: I guess so, if they made a movie about it lol
+user1: Ohhhh okay, yeah, I can see why it was a big deal then.
+user2: Indeed
+user1: Alright, so who are the main actors in the movie
+user1: ?
+user2: It has Meryl Streep and Tom Hanks, so you know the movie is going to have a chance at being pretty good
+user1: Right. How long is the movie?
+user2: It does not explicitly state how long the movie is, unless I am just glossing over it lol
+user1: Fair enough lol... Hmmmm... more questions to ask... errrrr
+user1: Okay, what year was the movie released?
+user1: I assume its rather new
+user2: It is from last year, I think it was up for a few awards at this year's Oscars
+user1: Oh sweet. Alright, who is the director?
+user2: Steven Spielberg, again, so you know it has a good chance of being a good film. :)
+user1: Oh man, sounds like it!
+user1: Man, I don't know what else to ask lol
+user2: I actually like historical films like this one, especially when they stick to what really happened
+user1: Same here, I'm not much of a movie person, but certain ones like this, and war movies I actually am pretty interested in
+user2: It is sort of like getting to peek behind the curtain, know what I mean?
+user1: Yeah, I know exactly what you mean
+user1: Well, I think I'll actually check this movie out, it sounds good, good director and cast
+user2: So, what ended up happening here, was the government went head to head against the press, and the case went to the Supreme Court
+
+conversation:
+user2: Good morning
+user1: hi friend
+user1: or probable robot
+user2: Not a robot, I promise. :)
+user1: how are you doing
+user2: Doing ok, you?
+user1: about the same, thanks for asking
+user1: okay, so we have to talk about this movie?
+user1: have you seen it?
+user2: I have not seen it yet, but I have heard good things
+user2: You?
+user1: yeah i saw it in theaters about a month or two ago
+user2: The reviews look solid, did you like it?
+user1: it was alrighta
+user1: about as good as it could have been
+user1: i think most directors would have had a struggle making it interesting without embellishing it
+user2: Did it get embellished some?
+user1: i don't think so
+user1: but
+user1: i don't know a lot about the actual events
+user2: I would hate to hear that, I prefer my historical films to be close to the real events as possible
+user1: right
+user1: i mean it had some things added for dramatic effect i'm sure
+user1: but i think they probably stuck as close as they could have
+user1: i liked all the acting
+user1: and it had good humor
+user2: That is good then.
+user1: what do you think you'd like about it
+user2: I am always a fan of these types of films, it is sort of like you are getting to see behind the curtain
+user1: yeah i guess that's a good point
+user2: We, as the public, only get to see so much of what really happens in these sorts of situations
+user1: i think it did a good job of doing that in a way that didn't feel like it was dragging on
+user1: it had a good pace to it
+user2: I see. I have been meaning to check this one out, so maybe this weekend
+user1: do you like any of the actors in it
+user2: Tom Hanks is pretty good in just about anything
+user2: I would watch it just for him
+user1: that's what I figured you'd say
+user1: i'm sure most people feel that way
+user2: Indeed
+user1: i think most of the actors did just as well as he did in it
+user2: Strong cast then, even better
+user1: what else would you like to talk about, then?
+user1: any ideas?
+user2: I think we covered things pretty well, you convinced me to watch the movie. :)
+user1: what genre of movie do you normally go for?
+user2: I like these types, but more so action
+user1: yeah, i don't normally go for political movies
+user1: i don't care about politics in general, i find them uninteresting
+user1: and usually too divided and a waste of time
+user2: Makes sense
+user1: but 
+user1: the historical aspect made it interesting enough
+user1: i'm not sure if this one would have enough action for you though
+user2: Probably not, but that is ok
+user1: do you normally watch movies with bad ratings?
+user1: or just stick to ones with good ratings?
+user2: It all depends, really, sometimes ratings can be manipulated or just inaccurate
+user1: i would kind of agree with that
+user1: i think they can definitely be overrated 
+user1: however
+user1: i think it can still give you a good idea
+user1: i've liked movies that have gotten bad ratings, but
+user1: it's probably more the minority
+user2: Makes sense
+user1: but if it has an actor or a director i like, i usually am open-minded about it no matter what
+user2: I know what you mean
+
+conversation:
+user2: The Post was an exciting movie last year about journalists trying to publish classified documents about the US government.
+user1: Hello. I have not watched the movie. How was it ?
+user1: That is very interesting.
+user2: It looks like an awards season hit, but might be too calculated to reflect today's climate.
+user1: Publishing classified documents can be a trick thing.
+user1: Awards season hit is good.
+user1: Who starred in the movie ?
+user2: Meryl Streep and Tom Hanks.
+user1: Nice actors. Did you like them for the roll ?
+user2: I liked the cast, and Rotten Tomatoes gave it an 88%.
+user1: Did they end up publishing the classified documents in the movie ? 
+user1: 88% is good
+user1: what percentage would you give it ?
+user2: I would give it a very high score. It helped me understand that decisions that have been validated by the lens of history were difficult ones to make in the moment.
+user1: Did they end up publishing the classified documents in the movie ?
+user2: I know that the documents were leaked by Daniel Ellsberg to the New York Times.
+user1: How long did the movie last ?
+user2: I'm not sure.
+user1: Was it a good thing that the documents were leaked ?
+user2: Many people believe that their deeds bent things towards justice and defended the fundamental tenents of the Constitution.
+user1: That's great !!!
+user1: The Constitution is important. 
+user1: Will this conversation end on it's own, or am I suppose to press Abort ?
+user2: I think we have to continue through a few more exchanges--I should be getting another paragraph to read soon.
+user1: I see. Ok. 
+user1: Where was the location of the movie ?
+user2: It must have been in Washington, DC, since the leaker worked for the State Department.
+user2: Meryl's Streep's character has to decide whether to publish the papers and risk destroying her family's newspaper.
+user1: What does she decide ?
+user2: She decided to run the story, and the Post and another paper had to plead before the Supreme Court for their First Amendment right to publish the material.
+user1: Did it destroy her family's newspaper ?
+user2: The court ruled 6-3 in the Post and Times's favor,a and newspapers across the country picked up the story in solidarity.
+user1: Did Meryl Streep's character work for The Post or The Times ?
+user2: She was the editor of the Post.
+user2: And a year after Nixon banned The Post from the White House, a security discovered a break in in progress at the Watergate Hotel.
+user1: So The Post discovered this break ?
+user2: The story of the Watergate break in is another movie.
+
+conversation:
+user2: Hello!
+user1: Hello!
+user2: Have you heard about The Post directed by Spielberg?
+user1: I have just seen some of the trailer information. It looks very interesting.
+user2: Yes, nothing brings more expectations than to know the main characters are play by Tom Hanks and Meryl Streep.
+user2: Great actors for sure.
+user1: I agree I can't wait to see how Tom brings to life the character Ben. Sarah Paulson is a good one too
+user1: I would love to see how they bring the 70's back.
+user2: Surely, a historical and political drama is always an excitement if the movie is well done! The trama promises a lot, set in the 70s and the difficult choices that were made in regards to publish documents relating the U.S. with Vietnam War
+user1: Yes I bet those choices would be hard to make. The character had to be brave to do so.
+user1: Being it is a true story that makes it even more appealing to me
+user2: Yeah, that is a big plus to me too.
+user1: I bet the Ellsberg was scared when he leaked the documents. How brave to do the right thing
+user2: I think it would be interesting to see how a person involved in the war is affected by it and decides to make a move to create conscience between the American citizens.
+user1: Yes I agree and how Meryl can depict the first female publisher. That would be interesting to see the dynamic of how it effected her career as well
+user2: Yes, for a woman to have a successful career in those times was not an easy task, for sure.
+user1: No not at all. They picked a strong woman to play the character. And having Tom as the executive editor to back her up. the dynamic between them must be amazing
+user1: From the description of the movie I would have expected a higher rating from Rotten tomatoes
+user2: Certainly! and about the rating at least is quite good, not as good as it should be perhaps.
+user1: I would think that it would be in the high 90's with the casting
+user2: Yeah, however this kind of movie has it more difficult to rate that higher because its audience target is smaller. 
+user1: That is true. It is a pitty that is the case. Historical movies should be higher than some of the other genres
+user2: And Graham must have been a bold person, absolutely. To make that choice and go ahead and publish those controversial papers with the government as the enemy, is truly remarkable.
+user1: I wonder what the lawyers were thinking the downside would be to publishing them
+user2: Yes, they couldn't see the bigger picture.
+user1: I see that they thought it could bring the paper down but if it had already been published by the Times
+user1: Nixon must have had been worried that they would expose the Watergate as well
+user2: Of course, that would be mean to him that his job and reputation would be severely damaged.
+user1: It was honorable for the other papers to publish in solidarity with the Post and Times. That had to prove that the people want to know.
+user2: Yes, that kind of union and solidarity is always needed in order to achieve anything.
+user1: I agree. To expose everything tho had to be scary at a personal level. Never know what type of retaliation could be in store for you.
+user2: Yes, the fear and the consequences you will be facing must something terrifying. Fighting for justice and the right causes requires a lot of bravery.
+user1: Yes it does.
+user2: Well, thanks for the conversation. I should definitely make time to watch this film. Bye!
