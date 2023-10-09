@@ -48,8 +48,12 @@ PG-19 Small (first column)
     python cacheLMpg19.py --xl_cache_size 384 --sec_cache_size 256 --cache cpr
     python cacheLMpg19.py --xl_cache_size 128 --sec_cache_size 512 --snippet_size 128 --snip_list_len 5 --cache rpl
 
+PG-19 Base (second column)
 
-WikiText2 Small (second column)
+    add "--model base --batch_size 16  --acc_steps 2" to all commands above
+
+
+WikiText2 Small (third column)
 
     python cacheLMwiki.py 
     python cacheLMwiki.py --xl_cache_size 512
@@ -63,12 +67,12 @@ WikiText2 Small (second column)
     python cacheLMwiki.py --xl_cache_size 384 --sec_cache_size 256 --cache cpr
     python cacheLMwiki.py --xl_cache_size 128 --sec_cache_size 512 --snippet_size 128 --snip_list_len 3 --cache rpl
 
-WikiText2 Base (third column)
+WikiText2 Base (fourth column)
 
     add "--model base --batch_size 16  --acc_steps 2" to all commands above
 
 
-CMU-DoG Small (fourth column)
+CMU-DoG Small (fifth column)
 
     python cacheLMdog.py 
     python cacheLMdog.py --xl_cache_size 512
@@ -82,6 +86,6 @@ CMU-DoG Small (fourth column)
     python cacheLMdog.py --xl_cache_size 384 --sec_cache_size 256 --cache cpr
     python cacheLMdog.py --xl_cache_size 128 --sec_cache_size 512 --snippet_size 128 --snip_list_len 9 --cache rpl
 
-CMU-DoG Base (fifth column)
+CMU-DoG Base (sixth column)
 
     add "--model base" to all commands above
