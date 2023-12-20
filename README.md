@@ -1,3 +1,5 @@
+This repo contains the code and necessary data to reproduce the results in the paper [Long-Range Language Modeling with Selective Cache](https://aclanthology.org/2023.findings-emnlp.321/) published in EMNLP2023 findings
+
 ## How to reproduce the results
 
 ### Overview
